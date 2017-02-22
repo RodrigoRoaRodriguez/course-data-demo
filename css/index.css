@@ -67,7 +67,6 @@ footer {
 }
 
 aside {
-  flex:1;
   background-color: #3f51b5;
   box-shadow: .5vw 0 2vw rgba(0, 0, 0, 0.5);
   z-index: 1;
