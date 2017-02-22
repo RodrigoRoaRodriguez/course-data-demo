@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono|Roboto');
+
+body {
+  color: snow;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #E71D36;
+}
+
+body > * {
+ display: flex;
+ justify-content: center;
+}
+
+header {
+  background-color: #1976d2;
+  box-shadow: 0 .5vh 2vh rgba(0, 0, 0, 0.5);
+  z-index: 2;
+  padding: .5em;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+header nav{
+  width: 90vw;
+  justify-content: space-between;
+}
+
+nav > * {
+  flex-grow: 1;
+  text-align: center;
+  background-color:#03a9f4;;
+  margin: 0 2vw;
+  z-index: 3;
+  box-shadow: 0 0 2vw rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+  padding: .5em;
+  color: snow;
+}
+
+aside { 
+  display: flex;
+  flex-direction: column;
+}
+
+aside nav>* {
+  margin: 1vw 0;
+  flex-basis: 100%;
+}
+
+main {
+  flex: 1;
+  background-color: #1976d2;
+}
+
+footer {
+  background-color: #1976d2;
+  box-shadow: 0 -.5vh 2vh rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+aside {
+  flex:1;
+  background-color: #009688;
+  box-shadow: .5vw 0 2vw rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+svg {
+  font-family: 'Overpass Mono', monospace;
+}
+
+svg#visualization {
+  flex: 3;
+  background-color: #2E294E;
+}
+
+@media (max-width: 600px)  {
+  main {
+    flex-direction:column
+  }
+  aside {
+    flex-basis: 100%;
+  }
+
+  nav>*{
+    flex-basis: 100%;
+    margin: 1vw 0;
+  }
+}
