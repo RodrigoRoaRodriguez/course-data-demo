@@ -81,6 +81,10 @@ svg#visualization {
   background-color: #2E294E;
 }
 
+img#brand{
+  height: 2.5em;
+}
+
 @media (max-width: 600px)  {
   main {
     flex-direction:column
@@ -89,6 +93,12 @@ svg#visualization {
     flex-basis: 100%;
   }
 
+  header{
+    display: flex;
+    flex-direction: column;
+  }
+  
+img#brand,
   nav>*{
     flex-basis: 100%;
     margin: 1vw 0;
