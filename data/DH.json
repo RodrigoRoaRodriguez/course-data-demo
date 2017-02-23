@@ -1,0 +1,133 @@
+{
+    "department": "CSC/Människa-datorinteraktion",
+    "courses": [
+            {
+            "code": "DH3353",
+            "title": "Aktivitets teori och människa-dator interaktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3353",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3370",
+            "title": "Aktuell forskning i MDI",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3370",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3374",
+            "title": "Användarupplevelser - teoretiska grunder",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3374",
+            "info": "",
+            "credits": "4,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3375",
+            "title": "Avancerat stöd för användargränssnittsprogrammering",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3375",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3354",
+            "title": "Datorstöd för samarbete",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3354",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3002",
+            "title": "Den reflekterande praktikern",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3002",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3355",
+            "title": "Design för människa-maskin interaktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3355",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3378",
+            "title": "Dis-kurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3378",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3357",
+            "title": "Fenomenologi i HCI",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3357",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3011",
+            "title": "Forskning i interaktionsdesign",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3011",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3372",
+            "title": "Interaction: Konst, forskning och kreatörer",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3372",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3367",
+            "title": "Intervju som datainsamlingsteknik och kvalitativ analys",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3367",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3010",
+            "title": "Jämförande genreanalys",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3010",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3356",
+            "title": "MID- Pärlor",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3356",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3050",
+            "title": "Människa-datorinteraktionens historia",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3050",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH3338",
+            "title": "Social Studies of Work and Technology",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3338",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        }
+    ]
+}

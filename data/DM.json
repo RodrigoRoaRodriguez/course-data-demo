@@ -1,0 +1,1109 @@
+{
+    "department": "CSC/Medieteknik och interaktionsdesign",
+    "courses": [
+            {
+            "code": "DM3510",
+            "title": "Aktuell forskning i teknikförstärkt lärande",
+            "href": "http://www.kth.se/student/kurser/kurs/DM3510",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM2532",
+            "title": "Arbetslivsintegrerande kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2532",
+            "info": "<p>En kurs som f&#246;rbereder studenterna f&#246;r att arbeta i medieindustrin och\/eller som medieteknikingenj&#246;rer.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1021",
+            "title": "Audio- och videoteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1021",
+            "info": "<p>Denna kurs &#228;r anpassad f&#246;r teknologer som l&#228;ser medieteknik och ska ge en grundl&#228;ggande f&#246;rst&#229;else f&#246;r de f&#246;ruts&#228;ttningar som finns f&#246;r ljud och bild information samt kunskap om samspelet mellan fysisk, elektrisk och digital representation av dessa.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2466",
+            "title": "Avancerad individuell kurs i människa-datorinteraktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2466",
+            "info": "<p>En avancerad kurs i m&#228;nniska-datorinteraktion som utformas individuellt med h&#228;nsyn till studentens intressen.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2799",
+            "title": "Avancerad projektkurs i interaktiv medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2799",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2592",
+            "title": "Bearbetningsteknik för rörliga bilder",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2592",
+            "info": "<p>En kurs i bearbetning av film, video och datorskapade medieprodukter.<\/p><p>180-po&#228;ngsutbildningen i Medieteknik vid KTH str&#228;cker sig i f&#246;rdjupningen R&#246;rlig bild &#246;ver hela den tidrymd som man har kunnat registrera, &#246;verf&#246;ra och lagra r&#246;rliga bilder. H&#228;r &#228;r &#228;ldre teknik inte historia, utan en aktuell och n&#246;dv&#228;ndig teknikkunskap, som anv&#228;nds f&#246;r att bevara ofantliga kulturarv &#229;t framtiden. Kunskapsf&#228;ltet R&#246;rlig bild str&#228;cker sig fr&#229;n 1890-talet, l&#229;ngt in i framtiden mot skapandet av medier &#8221;som &#228;nnu inte l&#228;mnat utvecklingsavdelningen&#8221;.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH252V",
+            "title": "Beteendevetenskaplig metod",
+            "href": "http://www.kth.se/student/kurser/kurs/DH252V",
+            "info": "<p>Kursen presenterar olika perspektiv inom beteendevetenskap med fokus p&#229; metod. Praktisk &#246;vning i datainsamlingstekniker ges.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2630",
+            "title": "Beteendevetenskaplig metod",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2630",
+            "info": "<p>Kursen presenterar olika perspektiv inom beteendevetenskap med fokus p&#229; metod. Praktisk &#246;vning i datainsamlingstekniker ges.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2583",
+            "title": "Big data i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2583",
+            "info": "<p>Kursen &#228;r en teori- och metodkurs baserad p&#229; f&#246;rel&#228;sningar, seminarier och studentprojekt , d&#228;r vi diskuterar essensen av storskalig dataanalys (big data och data mining), fr&#228;mst som en upps&#228;ttning anv&#228;ndbara vetenskapliga metoder och deras till&#228;mpningar i media och dagens informationssamh&#228;lle.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1576",
+            "title": "Bild- och videoteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1576",
+            "info": "",
+            "credits": "9,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2554",
+            "title": "Business to business marknadsföring",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2554",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2465",
+            "title": "Datateknik, ekonomi och ledarskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2465",
+            "info": "<p>Kursen &#228;r en projektkurs och den &#228;r helt integrerad i kursen DH2655, Kooperativ IT-design. Under period 1 inneh&#229;ller kursen f&#246;rel&#228;sningar och &#246;vningsuppgifter, dels om metoder f&#246;r kravst&#228;llning, design och utveckling av IT-st&#246;d (KID och DEL), dels om ekonomi och ledarskap (DEL-specifikt). Under period 2 planerar och genomf&#246;r studenterna sj&#228;lva ett projekt i grupper om 5 till 7 studenter (gemensamma grupper f&#246;r KID- och DEL-studenter). Under projektarbetet till&#228;mpa systematisk utrednings- och unders&#246;kningsmetodik f&#246;r design av programvara.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2651",
+            "title": "Datorspelsdesign med avancerad grafik",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2651",
+            "info": "<p>Datorspel &#228;r intressanta ur MDI-perspektiv eftersom anv&#228;ndarna omedelbart och s&#229; gott som utan instruktioner m&#229;ste f&#246;rst&#229; hur man ska spela och spelet samtidigt ska vara utmanande. Datorspelen &#228;r idag drivande f&#246;r vidareutveckling av interaktionstekniken och inkluderar kunnande fr&#229;n bland annat MDI, Datalogi, Datorgrafik, AI och Matematik.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2416",
+            "title": "Datorstöd för samarbete",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2416",
+            "info": "<p>En avancerad kurs i m&#228;nniska-datorinteraktion som behandlar omr&#229;det Datorst&#246;d f&#246;r samarbete (Computer Supported Cooperative Work). En sammanfattande fr&#229;gest&#228;llning &#228;r hur samarbete i olika former kan st&#246;djas av teknik. Detta problem kan ses fr&#229;n en m&#228;ngd olika perspektiv, b&#229;de fr&#229;n tekniskt och sociologiskt\/psykologiskt h&#229;ll, varav ett flertal presenteras under kursen.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2710",
+            "title": "Design av teknik för lärande och beteendeförändring",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2710",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2529",
+            "title": "Digital bild för publicering",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2529",
+            "info": "<p>En forts&#228;ttningskurs om analogt och digitalt fotografi, reproduktionsteknik, f&#228;rghanteringssystem samt digital bildbehandling.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2593",
+            "title": "Display och projektionsteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2593",
+            "info": "<p>En kurs om displayer, projektorer, teckenf&#246;nster och andra presentationsredskap f&#246;r medieupplevelser.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM228X",
+            "title": "Examensarbete inom medieteknik, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DM228X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom medieteknik av utredande karakt&#228;r.<\/p>",
+            "credits": "30,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM100X",
+            "title": "Examensarbete inom medieteknik, grundnivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DM100X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom medieteknik av utredande karakt&#228;r.<\/p>",
+            "credits": "15,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM128X",
+            "title": "Examensarbete inom medieteknik, grundnivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DM128X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom medieteknik av utredande karakt&#228;r.<\/p>",
+            "credits": "15,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM129X",
+            "title": "Examensarbete inom medieteknik, grundnivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DM129X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom medieteknik av utredande karakt&#228;r.<\/p>",
+            "credits": "15,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH224X",
+            "title": "Examensarbete inom människa-datorinteraktion, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DH224X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom m&#228;nniska-datorinteraktion av utredande karakt&#228;r.<\/p>",
+            "credits": "30,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH250X",
+            "title": "Examensarbete inom människa-datorinteraktion, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DH250X",
+            "info": "<p>Ett sj&#228;lvst&#228;ndigt arbete inom m&#228;nniska-datorinteraktion av utredande karakt&#228;r.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM3514",
+            "title": "Forskningsmetoder i Medieteknik och Människa-datorinteraktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM3514",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM2711",
+            "title": "Forskningsmetodik för interaktiv medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2711",
+            "info": "",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2571",
+            "title": "Framtidens medier",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2571",
+            "info": "<p>Genom teoretisk kunskapsuppbyggnad inom ett aktuellt medietekniskt omr&#229;de, kombinerad med praktiska moment och projektarbete, &#246;vas studenten inf&#246;r framtida sj&#228;lvst&#228;ndigt projektarbete inom den tekniska innovations- och utvecklingsprocessen. Kursen integrerar teknologens tidigare studier inom olika medietekniska omr&#229;den genom att studera problem som &#228;r sammansatta p&#229; ett s&#229;dant vis att de kr&#228;ver flera kompetenser f&#246;r sin l&#246;sning.<\/p>",
+            "credits": "10,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2400",
+            "title": "Fysisk interaktionsdesign",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2400",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1013",
+            "title": "Gestaltning och design",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1013",
+            "info": "<p>Kursen ska ge insikt i hur gestaltning och design av ett budskap &#228;r en del av kommunikationen.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2640",
+            "title": "Grafik- och interaktionsprogrammering",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2640",
+            "info": "<p>En kurs d&#228;r man l&#228;r sig grunderna i datorgrafik samt hur man skapar\/programmerar interaktion i olika media.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2531",
+            "title": "Grafisk produktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2531",
+            "info": "<p>En forts&#228;ttningskurs om grafiska produktionssystem.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1573",
+            "title": "Grafisk teknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1573",
+            "info": "<p>En grundkurs i grafisk teknik som behandlar hela produktionskedjan f&#246;r trycksaksframst&#228;llning.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM1570",
+            "title": "Grafisk teknik 1",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1570",
+            "info": "<p>En grundkurs i grafisk teknik som behandlar hela produktionskedjan f&#246;r trycksaksframst&#228;llning.<\/p>",
+            "credits": "7,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2660",
+            "title": "Haptik",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2660",
+            "info": "<p>Haptisk &#229;terkoppling (via k&#228;nselsinnet) tar man f&#246;r given i det verkliga livet men det &#228;r &#228;nnu s&#229; l&#228;nge ovanlig vid interaktionen med datorer. Tar vi i ett objekt med de nya typer av haptiska pekdon som finns kan man k&#228;nna ett grafiskt objekts materialegenskaper, om det &#228;r h&#229;rt eller mjukt och vilken textur det har. Lyfter man objektet k&#228;nner man om det &#228;r tungt eller l&#228;tt. &#196;ven egenskaper som viskositet, magnetism, dragkrafter m.m. kan f&#246;rmedlas. Haptisk &#229;terkoppling fr&#229;n datorn inneb&#228;r allts&#229; att man kan &#8221;k&#228;nna&#8221; datorgenererade objekt p&#229; liknande s&#228;tt som i verkligheten vilket g&#246;r det l&#228;ttare att manipulera dem. I kursen presenteras teoretiska ramverk f&#246;r haptisk perception och kognition d.v.s hur k&#228;nselsinnet fungerar. Metoder f&#246;r design och utv&#228;rdering av olika typer av haptiska gr&#228;nssnitt och andra nya interaktionss&#228;tt presenteras samt relevanta till&#228;mpningsomr&#229;den s&#229;som datorspel, samarbetsst&#246;d, vetenskaplig visualisering, medicinsk simulering, handikapphj&#228;lpmedel m.m. Nyskapande utv&#228;rderingsmetoder f&#246;r denna typ av gr&#228;nssnitt diskuteras samt konsekvenser f&#246;r MDI-omr&#229;det. Laborationer med olika pekdon och enkla programmeringsmilj&#246;er ger studenterna m&#246;jlighet att designa egna haptiska gr&#228;nssnitt.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2670",
+            "title": "Haptisk, taktil och handgriplig interaktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2670",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH3358",
+            "title": "Humaniora i HCI",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3358",
+            "info": "",
+            "credits": "4,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM2573",
+            "title": "Hållbarhet och medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2573",
+            "info": "<p>Studenter som har g&#229;tt kursen ska&#160;1) ha kunskaper om h&#229;llbarhet i allm&#228;nhet och 2) f&#246;rh&#229;llandet mellan medieteknik och h&#229;llbarhet i synnerhet.&#160;<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2720",
+            "title": "Hållbar IKT i praktiken",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2720",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM3506",
+            "title": "ICT och Hållbarhet",
+            "href": "http://www.kth.se/student/kurser/kurs/DM3506",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM1902",
+            "title": "Individuell kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1902",
+            "info": "",
+            "credits": "3,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2904",
+            "title": "Individuell kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2904",
+            "info": "<p>En avancerad kurs i medieteknik som utformas individuellt med h&#228;nsyn till studentens intressen.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2905",
+            "title": "Individuell kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2905",
+            "info": "<p>En avancerad kurs i medieteknik som utformas individuellt med h&#228;nsyn till studentens intressen.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2906",
+            "title": "Individuell kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2906",
+            "info": "<p>En avancerad kurs i medieteknik som utformas individuellt med h&#228;nsyn till studentens intressen.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1010",
+            "title": "Informationsteknik och ingenjörsmetodik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1010",
+            "info": "<p>Kursen utg&#246;r ett ramverk d&#228;r studenten p&#229; konkret projektbasis ges m&#246;jligheter till att v&#228;lja, utforma och v&#228;rdera egen och gemensam insats i undervisningsformen. Kursen upptar &#228;ven praktisk tr&#228;ning i informationss&#246;kning och anv&#228;ndning av datorbaserade kommunikationsverktyg.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2570",
+            "title": "Innehåll och uttryck i media",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2570",
+            "info": "<p>Genom teoretisk kunskapsuppbyggnad inom ett aktuellt medieteknikskt omr&#229;de, kombinerad med praktiska moment och projektarbete, &#246;vas studenten inf&#246;r framtida sj&#228;lvst&#228;ndigt projektarbete inom den tekniska innovations- och utvecklingsprocessen. Kursen integrerar teknologens tidigare studier inom olika medietekniska omr&#229;den genom att studera problem som &#228;r s&#229; sammansatta att de kr&#228;ver flera kompetenser f&#246;r sin l&#246;sning.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2577",
+            "title": "Innehåll och uttryck i media",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2577",
+            "info": "<p>En kurs som fokuserar p&#229; samverkan mellan kompetenser, kommunikationsprocesser med mera i stora medieprojekt. Kursen genomf&#246;rs i projektform.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2101",
+            "title": "Innovativa tekniker i medieproduktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2101",
+            "info": "<p>Kursen skall ge ett internationellt perspektiv p&#229; aktuell teknisk utveckling och innovation inom medieidustrin med speciellt fokus p&#229; tryckt kommunikation. Efter avslutad kurs skall studenterna ha till&#228;gnat sig aktuella kunskaper om centrala utvecklingstrender inom teknik, aff&#228;rsverksamhet, h&#229;llbarhetsaspekter, branschstruktur, standardisering och innovationsprocesser. Dessutom skall kursen erbjuda m&#246;jligheter till internationellt n&#228;tverksbyggande.<\/p>",
+            "credits": "5,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2626",
+            "title": "Interaktionsdesign 1",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2626",
+            "info": "",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2627",
+            "title": "Interaktionsdesign 2",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2627",
+            "info": "<p>En p&#229;byggnadskurs i interaktionsdesign baserad p&#229; studiobaserat l&#228;rande.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2417",
+            "title": "Interaktionsdesign för samarbete",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2417",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2629",
+            "title": "Interaktionsdesign som reflekterande praktik",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2629",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2641",
+            "title": "Interaktionsprogrammering",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2641",
+            "info": "<p>Interaktionsprogrammering handlar om tekniker och verktyg f&#246;r att skapa interaktion med varierande ramverk, p&#229; olika tekniska plattformar. Du l&#228;r dig att programmera grafiska anv&#228;ndargr&#228;nssnitt, interaktionsintensiva webbtill&#228;mpningar och till&#228;mpningar med mobil interaktion.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2642",
+            "title": "Interaktionsprogrammering och dynamiska webben",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2642",
+            "info": "<p>Interaktionsprogrammering handlar om tekniker och verktyg f&#246;r att skapa interaktion med varierande ramverk, p&#229; olika tekniska plattformar. Du l&#228;r dig att programmera grafiska anv&#228;ndargr&#228;nssnitt, interaktionsintensiva webbtill&#228;mpningar (klient och server sida) och till&#228;mpningar med mobil interaktion. Kursen bygger p&#229; DH2641.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2033",
+            "title": "Interaktiv medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2033",
+            "info": "<p>En avancerad kurs om informationsstrukturering, flerkanalspublicering och interaktiva webbaserade informationssystem som anv&#228;nder XML, en generell rekommendation f&#246;r hur data kan struktureras.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2556",
+            "title": "Interkulturell kommunikation",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2556",
+            "info": "<p>Intercultural communication is a field of study that looks at how people from different countries and differing cultural backgrounds behave, communicate and perceive the world around them, in similar and different ways among themselves, and how they endeavour to communicate across cultures.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM3511",
+            "title": "Interkulturell kommunikation",
+            "href": "http://www.kth.se/student/kurser/kurs/DM3511",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM2700",
+            "title": "Introduktion till interaktiv medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2700",
+            "info": "",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH1701",
+            "title": "Introduktion till lingvistik",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1701",
+            "info": "<p>Kursen ger en &#246;versikt &#246;ver den moderna lingvistikens verksamhetsomr&#229;den. Den behandlar bl.a. talspr&#229;ket och andra kommunikationssystem, spr&#229;kets biologi, spr&#229;k i v&#228;rlden, spr&#229;klig variation utifr&#229;n j&#228;mf&#246;relse av m&#229;nga spr&#229;k respektive social milj&#246;, flerspr&#229;kighet och spr&#229;ktill&#228;gnande och relationer mellan spr&#229;k, kultur och tanke.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM1011",
+            "title": "Introduktion till medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1011",
+            "info": "<p>Kursen utg&#246;r en &#246;versiktskarta f&#246;r den fortsatta utbildningen inom medieteknik d&#228;r utbildningens uppl&#228;ggning m&#246;jligg&#246;r att anpassa studierna efter olika intressen och framtidsm&#229;l.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM1571",
+            "title": "Introduktion till medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1571",
+            "info": "<p>Kursen skall utg&#246;ra en karta f&#246;r den fortsatta utbildningen i medieteknik.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM1572",
+            "title": "Introduktion till medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1572",
+            "info": "<p>Kursen skall utg&#246;ra en karta f&#246;r den fortsatta utbildningen i medieteknik.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH156V",
+            "title": "IT-design för funktionshindrade",
+            "href": "http://www.kth.se/student/kurser/kurs/DH156V",
+            "info": "<p>Kursen behandlar design av IT-st&#246;d d&#228;r fokus ligger p&#229; tillg&#228;nglighet f&#246;r m&#228;nniskor med olika typer av funktionshinder. Kursen ger en &#246;versikt &#246;ver olika typer av funktionshinder och principer f&#246;r utformning av IT-st&#246;d som &#228;r tillg&#228;ngliga f&#246;r funktionshindrade.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2625",
+            "title": "IT-design för funktionshindrade",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2625",
+            "info": "<p>Kursen behandlar design av IT-st&#246;d d&#228;r fokus ligger p&#229; tillg&#228;nglighet f&#246;r m&#228;nniskor med olika typer av kognitiva funktionshinder. Kursen ger en &#246;versikt &#246;ver olika typer av kognitiva funktionshinder och principer f&#246;r utformning av IT-st&#246;d som &#228;r tillg&#228;ngliga f&#246;r funktionshindrade.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2701",
+            "title": "Journalistikens villkor",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2701",
+            "info": "<p>Kursen behandlar struktur och organisation f&#246;r press, radio, tv, samt elektroniska medier. Momentet behandlar &#228;ven mediernas villkor i dagens samh&#228;lle, s&#228;rskilt ekonomiska, juridiska och politiska. Publikens anv&#228;ndning av olika massmedier behandlas. Inom ramen f&#246;r denna kurs sker &#228;ven en &#8221;minipraktik&#8221; om tre dagar p&#229; ett medief&#246;retag som till huvudsak sysslar med journalistik. D&#228;r ska du f&#246;lja verksamhetens alla delar och genomf&#246;ra en mindre studie.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH1347",
+            "title": "Kommunikation",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1347",
+            "info": "<p>Kursen syftar till att ge praktisk &#246;vning i tekniskt och vetenskapligt skrivande och muntlig framst&#228;llning samt en teoretisk introduktion till omr&#229;det Medie- och kommunikationsvetenskap (MKV).<\/p><p>MKV &#228;r ett tv&#228;rvetenskapligt &#228;mne som innefattar samh&#228;llsvetenskapliga fr&#229;gor kring mediers roll i samh&#228;llet samt analyser av budskap i bild, skrift och ljud. &#196;mnet innefattar ocks&#229; mer humanistiskt orienterade insikter i hur m&#228;nsklig kommunikation fungerar. Kursen &#228;r orienterad mot den tekniska och vetenskapliga framst&#228;llningen.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH1602",
+            "title": "Kommunikation",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1602",
+            "info": "<p>Kursen syftar huvudsakligen till att ge praktisk &#246;vning i design, konstruktion och konkret utformning av tekniska och vetenskapliga gestaltningsformer samt laborativa moment i muntlig framst&#228;llning. Kursen &#228;r orienterad mot den tekniska och vetenskapliga gestaltningen men ger &#228;ven en teoretisk introduktion till det tv&#228;rvetenskapliga omr&#229;det medie- och kommunikationsvetenskap. &#160;<\/p><p>Medie- och kommunikationsvetenskap&#160;&#228;r ett m&#229;ngdisciplin&#228;rt &#228;mne som innefattar tekniska, humanistiska och samh&#228;llsvetenskapliga fr&#229;gor kring mediers roll i samh&#228;llet samt problemorienterade analyser av budskap i bild, skrift och ljud.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH1600",
+            "title": "Kommunikation i ingenjörsvetenskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1600",
+            "info": "<p>DH1600 ger en introduktion till kommunikation mellan m&#228;nniskor som teori och praktik. Kursen syftar huvudsakligen till att ge praktisk &#246;vning i design, konstruktion och konkret utformning av tekniska och vetenskapliga gestaltningsformer samt laborativa moment i muntlig framst&#228;llning. Kursen &#228;r orienterad mot den tekniska och vetenskapliga gestaltningen.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH1608",
+            "title": "Kommunikation och information",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1608",
+            "info": "<p>Kursen ger en introduktion till medie- och kommunikationsvetenskap som ett tv&#228;rvetenskapligt f&#228;lt.<\/p>",
+            "credits": "5,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH1609",
+            "title": "Kommunikation och information",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1609",
+            "info": "<p>Kursen behandlar teoretiska och praktiska aspekter av kommunikation, medietekniker och kommunikativa system, liksom relationen mellan sociala och tekniska faktorer f&#246;r anv&#228;ndning av medietekniker och kommunikationssystem.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2600",
+            "title": "Kommunikation och kultur - kinesiska perspektiv",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2600",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH1601",
+            "title": "Kommunikation och media",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1601",
+            "info": "<p>Kurser ger en f&#246;rdjupad f&#246;rst&#229;else av det tv&#228;rvetenskapliga &#228;mnesomr&#229;det kommunikation, medieteknik och kulturteori.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH1603",
+            "title": "Kommunikation och media",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1603",
+            "info": "<p>Kursen behandlar praktiska och teoretiska aspekter av kommunikation, medietekniker och kommunikativa system, liksom relationen mellan sociala och tekniska faktorer f&#246;r utveckling och anv&#228;ndning av medietekniker och kommunikationssystem.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM1022",
+            "title": "Kompetens och utveckling inom medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1022",
+            "info": "<p>Kursen syftar till att, i vid mening, informera om och f&#246;rbereda studenten p&#229; olika situationer i arbetslivet. Fokus &#228;r p&#229; icke &#228;mnesspecifika problemst&#228;llningar.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2557",
+            "title": "Konsumentbeteende",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2557",
+            "info": "<p>Kursen ges av Handelsh&#246;gskolan och har d&#228;r kursnummer 2105. Information om kursen finns p&#229; kursens webbplats p&#229; Handelsh&#246;gskolan:<\/p><p>https:\/\/studentweb.hhs.se\/courseweb\/<br \/>CourseWebPublic\/CWPublic.ASP?WCI=<br \/>CourseDescription&amp;CourseNr=2105<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2551",
+            "title": "Konsumentmarknadsföring",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2551",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2655",
+            "title": "Kooperativ IT-design",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2655",
+            "info": "<p>Kursen best&#229;r av metodkunskap med till&#228;mpning p&#229; ett avancerat designprojekt inom m&#228;nniska-datorinteraktion.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DT2300",
+            "title": "Ljud i interaktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DT2300",
+            "info": "<p>Kursen ger studenterna teoretiska och praktiska kunskaper om anv&#228;ndningen av ljud i interaktion.<\/p><p>Huvudfokus ligger p&#229; vetenskap och teknologi f&#246;r anv&#228;ndning av ljud i interaktion samt kommunikation av information.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM3509",
+            "title": "Lärandebeteende",
+            "href": "http://www.kth.se/student/kurser/kurs/DM3509",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DH1607",
+            "title": "Lärande och IKT, projektkurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1607",
+            "info": "<p>Kursen ska ge pedagogisk och didaktisk kunskap inom omr&#229;dena informations- och kommunikationsteknik, datateknik och medieteknik; kunskap och metoder f&#246;r projektarbete; samt reflektion och dokumentation av l&#228;rprocessen. Kursen ska dessutom underl&#228;tta f&#246;r studenterna att se sammanhangen mellan kurserna i programmet samt l&#228;gga grunden till rutiner f&#246;r livsl&#229;ngt l&#228;rande.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2550",
+            "title": "Marknadssystem",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2550",
+            "info": "<p>Kursen ges av Handelsh&#246;gskolan och har d&#228;r kursnummer 2101. Information om kursen finns p&#229; kursens webbplats p&#229; Handelsh&#246;gskolan: https:\/\/studentweb.hhs.se\/courseweb\/<br \/>CourseWebPublic\/CWPublic.ASP?WCI=<br \/>CourseDescription&amp;CourseNr=2101<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2702",
+            "title": "Massmedieretorik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2702",
+            "info": "<p>Kursen tar upp olika teorier om kommunikation som &#228;r relevanta f&#246;r journalistiken. Kommunikationsprocessen behandlas fr&#229;n b&#229;de ett beteendevetenskapligt och ett humanistiskt\/retoriskt perspektiv. Det l&#228;ggs s&#228;rskilt vikt vid skillnader, likheter och f&#246;ruts&#228;ttningar f&#246;r olika journalistiska uttrycksformer. Ett antal egna skriv&#246;vningar ing&#229;r.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH3001",
+            "title": "Materialitet inom Människa- Datorinteraktion (MDI)",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3001",
+            "info": "<p>Kursen ger en teoretisk grund till materialitet inom m&#228;nniska-datorinteraktion och datorer i allm&#228;nhet. Kursen kommer att ges under v&#229;ren 2014.<\/p>",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM2582",
+            "title": "Media Lab",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2582",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2561",
+            "title": "Media management",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2561",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2560",
+            "title": "Media management, praktisk modul",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2560",
+            "info": "<p>Intended learning outcomes<\/p><p>On completion of the course, the student should be able to<\/p><p>&#226;&#8364;&#162; use theoretical perspectives in analysis of current case studies in media markets to facilitate well informed management decision including choice of and arguments why a perspective is appropriate for a definite analysis and management task.<\/p><p>Course main content<\/p><p>The course consists of business project and related guest lectures.<\/p><p>Disposition<\/p><p>Business project and guest lectures. The assignment for the business project is to create a strategic business plan including recommendations for a company in the media industry. The work is carried out in groups of 4-5 students, and companies will be assigned to each group. Group supervision will be given in this module.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2580",
+            "title": "Mediedistribution",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2580",
+            "info": "<p>Denna kurs &#228;r anpassad f&#246;r teknologer som l&#228;ser medieteknikprogrammets inriktning i Bild- och videoteknik och ska ge f&#246;rdjupad kunskap om den accelererande konvergensen mot Next Generation Networks med fokus p&#229; media &#246;ver IP och mobila n&#228;tverk.<\/p>",
+            "credits": "5,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2581",
+            "title": "Mediedistribution",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2581",
+            "info": "<p>Denna kurs &#228;r anpassad f&#246;r teknologer som l&#228;ser medieteknikprogrammets inriktning i Bild- och videoteknik och ska ge f&#246;rdjupad kunskap om den accelererande konvergensen mot Next Generation Networks med fokus p&#229; media &#246;ver IP och mobila n&#228;tverk.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1577",
+            "title": "Mediegestaltning",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1577",
+            "info": "<p>Kursen skall ge kunskap om och praktisk erfarenhet av gestaltning och utformning av kommunikations- och medieprocesser. I kursen l&#228;r sig studenter att arbeta i projektform, samt tr&#228;nar muntlig och skriftlig<br \/>kommunikation.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2076",
+            "title": "Mediejuridik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2076",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2552",
+            "title": "Mediemanagement",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2552",
+            "info": "<p>Kursen ges av Handelsh&#246;gskolan och har d&#228;r kursnummer 5082. Information om kursen finns p&#229; kursens webbplats p&#229; Handelsh&#246;gskolan:<br \/>https:\/\/studentweb.hhs.se\/courseweb\/<br \/>CourseWebPublic\/CWPublic.ASP?WCI=<br \/>CourseDescription&amp;CourseNr=5082<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2558",
+            "title": "Mediemanagement",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2558",
+            "info": "<p>The course aims to contribute in an understanding of what affects and what influences the parameters of change in media corporations, with respect to technology, individuals and market needs. In a rapidly changing media industry, it is important for media corporations to know how to speed up a product&#8217;s time to market. The challenge for media corporations today is to keep pace with new technology and to continuously learn and create knowledge in this fast changing environment. An important object in this course is therefore to teach students how to explore business opportunities and make decisions in this environment.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2590",
+            "title": "Medieperception",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2590",
+            "info": "<p>En kurs som ger kunskap om medieteknikens uttrycksm&#246;jligheter, metoder och verktyg f&#246;r att &#229;terge eller framkalla upplevelser av r&#246;rliga bilder, ljud och andra sinnesf&#246;rnimmelser. Kursen str&#228;cker sig ocks&#229; mot framtiden f&#246;r att ge f&#246;ruts&#228;ttningarna f&#246;r upplevelsemedier som &#228;nnu inte &#228;r synlig verklighet. Medietekniken griper &#246;ver b&#229;de humaniora och konst, s&#229;dant som kanske inte allm&#228;nt uppfattas som teknik.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2553",
+            "title": "Medieproduktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2553",
+            "info": "<p>Verklighetsn&#228;ra kurs i modern och framtida medieteknik och -produktion.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2559",
+            "title": "Medieproduktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2559",
+            "info": "<p>Verklighetsn&#228;ra kurs i modern och framtida medieteknik och medieproduktion.<\/p>",
+            "credits": "11,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2574",
+            "title": "Medieproduktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2574",
+            "info": "<p>Verklighetsn&#228;ra kurs i modern och framtida medieteknik och -produktion.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1020",
+            "title": "Medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1020",
+            "info": "<p>Kursen g&#229;r igenom ett helhetsperspektiv p&#229; digitala mediers arbetsfl&#246;den samt dess b&#228;rande teoretiska principer med till&#228;mpningar inom bild och dokumentanpassning f&#246;r grafisk produktion.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM1574",
+            "title": "Medieteknik, grundkurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1574",
+            "info": "<p>Kursen ska ge medietekniska baskunskaper som civilingenj&#246;rer kan f&#246;rv&#228;ntas beh&#246;va oavsett specialisering.<\/p>",
+            "credits": "18,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2601",
+            "title": "Medieteknologi och interaktionsdesign",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2601",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2628",
+            "title": "Metoder för interaktionsdesign",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2628",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2518",
+            "title": "Mobilutveckling med webbteknologier",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2518",
+            "info": "<p>En avancerad kurs om utveckling av applikationer for mobila plattformar med utg&#229;ngspunkt fr&#229;n webbteknologier som html5 och tillh&#246;rande script och sidbeskrivningsspr&#229;k.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1012",
+            "title": "Multimediaproduktion, tekniskt projekt",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1012",
+            "info": "<p>Kursen Multimediaproduktion &#228;r anpassad f&#246;r teknologer som l&#228;ser medieprogrammet och ska ge en grundl&#228;ggande f&#246;rst&#229;else och kunskap om olika medieformers konvergens. Kursen innefattar ett multimediaprojekt som syftar till att ytterligare f&#246;rdjupa och komplettera kunskaper inom inriktningsomr&#229;det och tr&#228;na ingenj&#246;rsm&#228;ssig probleml&#246;sning inom &#228;mnesomr&#229;den karakteristiska f&#246;r inriktningen.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2621",
+            "title": "Människa-datorinteraktion, fortsättningskurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2621",
+            "info": "<p>En forts&#228;ttningskurs som f&#246;rdjupar teoretiska och praktiska kunskaper inom m&#228;nniska-datorinteraktion med fokus p&#229; metoder, designprinciper och anv&#228;ndbarhetsdesign. Enskilt kan studenten inom ramen f&#246;r kursen ytterligare f&#246;rdjupa sig inom ett s&#228;rskilt anv&#228;ndningsomr&#229;de eller en s&#228;rskild teori inom MDI.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2622",
+            "title": "Människa-datorinteraktion, fortsättningskurs med prototypning",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2622",
+            "info": "<p>En forts&#228;ttningskurs som f&#246;rdjupar teoretiska och praktiska kunskaper inom m&#228;nniska-datorinteraktion med fokus p&#229; metoder, prototypning, designprinciper och anv&#228;ndbarhetsdesign. Enskilt kan studenten inom ramen f&#246;r kursen ytterligare f&#246;rdjupa sig inom ett s&#228;rskilt anv&#228;ndningsomr&#229;de eller en s&#228;rskild teori inom m&#228;nniska-datorinteraktion.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2632",
+            "title": "Människa-datorinteraktion, högre seminarier",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2632",
+            "info": "<p>Studenten f&#246;ljer avdelningens forskningsseminarier, l&#228;ser litteratur inf&#246;r seminariet, f&#246;r en reflektionsdagbok samt skriver en rapport kopplat till den egna utbildningen, g&#228;rna fram&#229;tblickande mot det egna examensarbetet.<\/p>",
+            "credits": "3,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH1620",
+            "title": "Människa-datorinteraktion, inledande kurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1620",
+            "info": "<p>Kursen behandlar &#246;versiktligt m&#228;nskliga f&#246;ruts&#228;ttningar och konsekvenser av att anv&#228;nda informationsteknologi som redskap f&#246;r att l&#246;sa uppgifter. Gr&#228;nssnittsutformning &#228;r en central del f&#246;r att skapa goda f&#246;ruts&#228;ttningar f&#246;r ett gott samspel, men det finns s&#228;llan patentl&#246;sningar. &#196;ven om gr&#228;nssnittsdesign &#228;r det som vanligen associeras med m&#228;nniska-datorinteraktion &#228;r det l&#229;ngt ifr&#229;n det enda som &#228;r centralt inom &#228;mnet. Kursen kommer att presentera ett antal olika metoder som ett st&#246;d f&#246;r att f&#246;rst&#229; vilken anv&#228;ndare eller vilka anv&#228;ndargrupper som ska anv&#228;nda tekniken och i vilket sammanhang detta g&#246;rs. Framf&#246;rallt kommer kursen betona vikten av att beakta anv&#228;ndarens behov, motivation och anv&#228;ndningssituation f&#246;r att kunna skapa anv&#228;ndbara l&#246;sningar.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2620",
+            "title": "Människa-datorinteraktion, inledande kurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2620",
+            "info": "<p>Kursen behandlar &#246;versiktligt m&#228;nskliga f&#246;ruts&#228;ttningar och konsekvenser av att anv&#228;nda informationsteknologi som redskap f&#246;r att l&#246;sa uppgifter. Gr&#228;nssnittsutformning &#228;r en central del f&#246;r att skapa goda f&#246;ruts&#228;ttningar f&#246;r ett gott samspel, men det finns s&#228;llan patentl&#246;sningar. &#196;ven om gr&#228;nssnittsdesign &#228;r det som vanligen associeras med m&#228;nniska-datorinteraktion &#228;r det l&#229;ngt ifr&#229;n det enda som &#228;r centralt inom &#228;mnet. Kursen kommer att presentera ett antal olika metoder som ett st&#246;d f&#246;r att f&#246;rst&#229; vilken anv&#228;ndare eller vilka anv&#228;ndargrupper som ska anv&#228;nda tekniken och i vilket sammanhang detta g&#246;rs. Framf&#246;rallt kommer kursen betona vikten av att beakta anv&#228;ndarens behov, motivation och anv&#228;ndningssituation f&#246;r att kunna skapa anv&#228;ndbara l&#246;sningar.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2624",
+            "title": "Människa-datorinteraktion med didaktisk inriktning",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2624",
+            "info": "<p>Kursen behandlar &#246;versiktligt m&#228;nskliga f&#246;ruts&#228;ttningar och konsekvenser av att anv&#228;nda informationsteknologi som redskap f&#246;r att l&#246;sa uppgifter. Gr&#228;nssnittsutformning &#228;r en central del f&#246;r att skapa goda f&#246;ruts&#228;ttningar f&#246;r ett gott samspel, men det finns s&#228;llan patentl&#246;sningar. &#196;ven om gr&#228;nssnittsdesign &#228;r det som vanligen associeras med m&#228;nniska-datorinteraktion &#228;r det l&#229;ngt ifr&#229;n det enda som &#228;r centralt inom &#228;mnet. Kursen kommer att presentera ett antal olika metoder som ett st&#246;d f&#246;r att f&#246;rst&#229; vilken anv&#228;ndare eller vilka anv&#228;ndargrupper som ska anv&#228;nda tekniken och i vilket sammanhang detta g&#246;rs. Framf&#246;rallt kommer kursen betona vikten av att beakta anv&#228;ndarens behov, motivation och anv&#228;ndningssituation f&#246;r att kunna skapa anv&#228;ndbara l&#246;sningar.<\/p><p>Kursen har &#228;ven ett moment av didaktik f&#246;r undervisning inom m&#228;nniska-datorinteraktion. Kursen &#228;r s&#228;rskilt anpassad f&#246;r studenter inom civilingenj&#246;rs-l&#228;rarprogrammet, men &#228;ven andra studenter kan erbjudas plats.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2350",
+            "title": "Mänsklig perception för informationsteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2350",
+            "info": "<p>Dagens teknik bygger p&#229; en rad olika medier f&#246;r att visa, &#246;verf&#246;ra och utbyta information. Kunskap om funktioner, processer och begr&#228;nsningar i det m&#228;nskliga perceptuella systemet &#228;r avg&#246;rande f&#246;r att vi ska kunna g&#246;ra de b&#228;sta designl&#246;sningarna och optimera f&#246;rh&#229;llandet mellan informationsinneh&#229;ll och till&#228;mpning. Kursen ger en allm&#228;n &#246;versikt &#246;ver m&#228;nniskans perception med betoning p&#229; syn, h&#246;rsel och k&#228;nsel. Relevanta delar av anatomi och fysiologi t&#228;cks liksom grundl&#228;ggande psykofysiska begrepp och perceptionsm&#229;tt s&#229;som detektering, diskriminering, identifiering och skalning. Omr&#229;den i den m&#228;nskliga perceptionen som studeras i relation till informationstekniska till&#228;mpningar &#228;r perceptionen av ljusstyrka och f&#228;rg, ljud, musik, tal, haptik samt uppfattningen av tid, rum och r&#246;relse. Omr&#229;dena multisensorisk bearbetning och sensorisk substitution behandlas ocks&#229;. Kursen ber&#246;r &#228;ven l&#228;rande och perceptuella f&#246;r&#228;ndringar s&#228;rskilt relaterat till informationsteknik. Kursen har s&#228;rskild relevans f&#246;r s&#229;dana till&#228;mpningar av informationsteknik som m&#228;nniska-maskingr&#228;nssnitt, databehandling av ljud och musik, talbaserade system, haptiska gr&#228;nssnitt, r&#246;relsedetektion och datorseende.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DT2350",
+            "title": "Mänsklig perception för informationsteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DT2350",
+            "info": "<p>Dagens teknik bygger p&#229; en rad olika medier f&#246;r att visa, &#246;verf&#246;ra och utbyta information. Kunskap om funktioner, processer och begr&#228;nsningar i det m&#228;nskliga perceptuella systemet &#228;r avg&#246;rande f&#246;r att vi ska kunna g&#246;ra de b&#228;sta designl&#246;sningarna och optimera f&#246;rh&#229;llandet mellan informationsinneh&#229;ll och till&#228;mpning. Kursen ger en allm&#228;n &#246;versikt &#246;ver m&#228;nniskans perception med betoning p&#229; syn, h&#246;rsel och k&#228;nsel. Relevanta delar av anatomi och fysiologi t&#228;cks liksom grundl&#228;ggande psykofysiska begrepp och perceptionsm&#229;tt s&#229;som detektering, diskriminering, identifiering och skalning. Omr&#229;den i den m&#228;nskliga perceptionen som studeras i relation till informationstekniska till&#228;mpningar &#228;r perceptionen av ljusstyrka och f&#228;rg, ljud, musik, tal, haptik samt uppfattningen av tid, rum och r&#246;relse. Omr&#229;dena multisensorisk bearbetning och sensorisk substitution behandlas ocks&#229;. Kursen ber&#246;r &#228;ven l&#228;rande och perceptuella f&#246;r&#228;ndringar s&#228;rskilt relaterat till informationsteknik. Kursen har s&#228;rskild relevans f&#246;r s&#229;dana till&#228;mpningar av informationsteknik som m&#228;nniska-maskingr&#228;nssnitt, databehandling av ljud och musik, talbaserade system, haptiska gr&#228;nssnitt, r&#246;relsedetektion och datorseende.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2500",
+            "title": "Närvaroproduktion på distans",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2500",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM250N",
+            "title": "Närvaroproduktion på distans",
+            "href": "http://www.kth.se/student/kurser/kurs/DM250N",
+            "info": "<p>En forts&#228;ttningskurs som behandlar och genomf&#246;rs med n&#228;tverksbaserade system f&#246;r kommunikation.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2591",
+            "title": "Produktionsteknik för rörlig bild",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2591",
+            "info": "<p>En f&#246;rdjupande kurs i tekniken att registrera och lagra r&#246;rliga bilder. Civilingenj&#246;rsutbildningen i Medieteknik vid KTH sp&#228;nner i f&#246;rdjupningen R&#246;rlig bild &#246;ver hela den tidrymd som man har kunnat registrera, &#246;verf&#246;ra och lagra r&#246;rliga bilder. H&#228;r &#228;r &#228;ldre teknik inte historia, utan en aktuell och n&#246;dv&#228;ndig teknikkunskap, som anv&#228;nds f&#246;r att bevara ett ofantligt kulturarv &#229;t framtiden. Kunskapsf&#228;ltet R&#246;rlig bild str&#228;cker sig fr&#229;n 1890-talet in i framtiden mot skapandet av medier &#8221;som &#228;nnu inte l&#228;mnat utvecklingsavdelningen&#8221;.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2678",
+            "title": "Programintegrerande kurs i interaktiv medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2678",
+            "info": "",
+            "credits": "4,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2575",
+            "title": "Programintegrerande kurs i media management",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2575",
+            "info": "",
+            "credits": "4,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1578",
+            "title": "Programintegrerande kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1578",
+            "info": "<p>Kursen skall underl&#228;tta f&#246;r studenterna att se sammanhangen mellan kurserna i civilingenj&#246;rsprogrammet i Medieteknik samt l&#228;gga grunden till rutiner f&#246;r livsl&#229;ngt l&#228;rande, genom reflektion kring l&#228;randets villkor samt genom tematiska f&#246;rdjupningar i aktuella gr&#228;ns&#246;verskridande &#228;mnesomr&#229;den b&#229;de inom och utom h&#246;gskolan. Kursen &#228;r f&#246;rdelad p&#229; tre &#229;r och l&#228;ses kontinuerligt under dessa tre &#229;r.<\/p>",
+            "credits": "7,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM3507",
+            "title": "Programmering som designpraktik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM3507",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM1575",
+            "title": "Programsammanfattande kurs i medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1575",
+            "info": "",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1387",
+            "title": "Programsystemkonstruktion med C++",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1387",
+            "info": "",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2460",
+            "title": "Programvarudesign - ekonomi - ledarskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2460",
+            "info": "<p>Programvarudesign. Ekonomi. Ledarskap. Integration.<\/p><p>Huvudm&#229;let med kursen &#228;r att planera och genomf&#246;ra ett projekt som syftar till att belysa\/l&#246;sa ett problem som &#228;r s&#229; sammansatt att det kr&#228;ver kompetens fr&#229;n flera omr&#229;den f&#246;r sin l&#246;sning. Det g&#246;rs genom att integrera tidigare studier i programvarudesign (P), ekonomi (E) och ledarskap (L) i ett projekt hos en organisation eller ett f&#246;retag.<\/p>",
+            "credits": "12,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2704",
+            "title": "Projektarbete i journalistik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2704",
+            "info": "<p>Inom ramen f&#246;r denna kurs, ska du sj&#228;lv skriva ett l&#228;ngre reportage om ett aktuellt &#228;mne. Parallellt med detta reportage ska en mer akademisk rapport skrivas. Denna ska behandla de fr&#229;gor som aktualiseras om ditt material skulle publiceras i andra medieformer som t ex TV, radio och Internet med m&#246;jligheter till hypertext.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2555",
+            "title": "Projektkurs i medieproduktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2555",
+            "info": "<p>En kurs som fokuserar p&#229; samverkan mellan kompetenser och kommunikationsprocesser i medieprojekt. Kursen genomf&#246;rs huvudsakligen i projektform.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2527",
+            "title": "Publiceringsteknik, högre kurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2527",
+            "info": "",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1031",
+            "title": "Radioteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1031",
+            "info": "<p>Denna kurs &#228;r fr&#228;mst riktad mot teknologer p&#229; medieteknikprogrammet och handlar om de tekniska system och fl&#246;den som finns vid produktion av radio. Kursen skall ge en grundl&#228;ggande kunskap om ljudbaserad distributionsmedia, som t.ex. digital och internetbaserad radio men &#228;ven traditionell analog radioteknik.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH239V",
+            "title": "Realtidsgrafik och visualisering",
+            "href": "http://www.kth.se/student/kurser/kurs/DH239V",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2703",
+            "title": "Redaktionell organisation",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2703",
+            "info": "<p>Kursen tar upp olika teorier om kommunikation som &#228;r relevanta f&#246;r journalistiken. Kommunikationsprocessen behandlas fr&#229;n b&#229;de ett beteendevetenskapligt och ett humanistiskt\/retoriskt perspektiv. Det l&#228;ggs s&#228;rskilt vikt vid skillnader, likheter och f&#246;ruts&#228;ttningar f&#246;r olika journalistiska uttrycksformer. Ett antal egna skriv&#246;vningar ing&#229;r.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH3376",
+            "title": "Reflexivitet inom HCI",
+            "href": "http://www.kth.se/student/kurser/kurs/DH3376",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DM2578",
+            "title": "Social Media Technologies",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2578",
+            "info": "<p>An advanced course on the use and development of social media technologies, such as messaging, forums, blogs, wikis, feeds, social bookmarking, social networking systems, video- and photo sharing sites, mobile social media platforms and synthetic worlds. The course also introduces social issues arising from the everyday uses of these technologies.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH1702",
+            "title": "Språkets arkitektur 1 - allmän språkvetenskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1702",
+            "info": "",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH1703",
+            "title": "Språkets arkitektur 2 - fonetik",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1703",
+            "info": "",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2418",
+            "title": "Språkteknologi",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2418",
+            "info": "<p>Kursen i spr&#229;kteknologi behandlar olika metoder f&#246;r analys, generering och filtrering av m&#228;nskligt spr&#229;k med fokus p&#229; text. Regelbaserade och statistiska metoder anv&#228;nds och unders&#246;ks till exempel f&#246;r informationss&#246;kning, stavnings- och grammatikkontroll, och textsammanfattning.<\/p><p>Kursen g&#229;r igenom s&#229;v&#228;l teori, tekniker som till&#228;mpningsomr&#229;den. Kursen examineras med laborationer, tenta samt en inl&#228;mningsuppgift.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH1704",
+            "title": "Språkvetenskapliga arbetssätt",
+            "href": "http://www.kth.se/student/kurser/kurs/DH1704",
+            "info": "",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2603",
+            "title": "Tekniker som förändrar tid, rum och verklighet",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2603",
+            "info": "<p>Nya medier har i olika historiska perioder bidragit till att f&#246;r&#228;ndra m&#228;nniskans syn p&#229; tid, rum och verklighet. Detta g&#228;ller inte enbart v&#229;r tids nya medier &#8211; &#8217;virtual reality&#8217; - utan &#228;ven historiskt med s&#229;dana innovationer som det fonetiska alfabetet, telegrafen, radion, den r&#246;rliga bilden, osv. De olika mediernas s&#228;tt att hantera dimensionerna tid, rum och verklighet leder till olika anspr&#229;k p&#229; att kunna p&#229;skynda s&#229;dant som mobilitet och r&#246;rlighet, samt att intensifiera synlighet och tillg&#228;nglighet. Den virtuella verkligheten &#229;stadkoms idag genom elektronisk kommunikation, men historiskt har det skett genom texter, dramer och filmer.<\/p><p>I kursen analyseras i ett kultur- och samh&#228;llsvetenskapligt perspektiv olika historiska och samtida tekniska projekt, innovationer, till&#228;mpningar och tj&#228;nster i hem, arbete och fritid - som alla inneb&#228;r en f&#246;r&#228;ndring av dessa dimensioner. Fokus i analysen ligger p&#229; en kritisk analys av de anspr&#229;k p&#229; f&#246;r&#228;ndring som utvecklingsprojekten v&#228;gleds av. Mediernas f&#246;r&#228;ndring av dessa dimensioner relateras till sociohistoriska f&#246;r&#228;ndringsscenarier.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM2572",
+            "title": "Teori och metod för Medieteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2572",
+            "info": "<p>Syftet med kursen &#228;r att ge en djupare f&#246;rst&#229;else av vetenskapliga teorier och metoder relevanta f&#246;r medieteknisk forskning.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1030",
+            "title": "TV-teknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1030",
+            "info": "<p>En kurs om analog och digital TV-teknik och dess aktuella och framtida produktions- och distributionsmetoder.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DH2408",
+            "title": "Utvärderingsmetoder inom människa-datorinteraktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2408",
+            "info": "<p>En avancerad kurs i m&#228;nniska-datorinteraktion som behandlar metoder f&#246;r utv&#228;rdering av anv&#228;ndbarhet.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2610",
+            "title": "Vetenskapsteori och vetenskaplig metodik i MDI",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2610",
+            "info": "<p>Kursen avser att ge en bred introduktion till vetenskapsteori ur ett naturvetenskapligt, samh&#228;llsvetenskapligt och humanistiskt perspektiv med koppling till MDI. Design av studier, datainsamlingstekniker samt analys av data introduceras och kopplas &#228;ven till&#160;etik och etiska problem.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DH2605",
+            "title": "Vetenskap, teknik och lärande, del II, inkl VFU",
+            "href": "http://www.kth.se/student/kurser/kurs/DH2605",
+            "info": "<p>Kursen omfattar experimentellt och pedagogiskt arbete med teoretiska perspektiv inom naturvetenskap, matematik och\/eller teknik i institutionella l&#228;romilj&#246;er (s&#229;som &#8221;Science Centra&#8221; och museer, men ocks&#229; i grund- och gymnasieskolan). Kursen ing&#229;r i programmet Civilingenj&#246;r &amp; l&#228;rare 300 h&#246;gskolepo&#228;ng.<\/p>",
+            "credits": "4,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DM1580",
+            "title": "Videoteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DM1580",
+            "info": "",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DM2517",
+            "title": "XML för publicering",
+            "href": "http://www.kth.se/student/kurser/kurs/DM2517",
+            "info": "<p>En avancerad kurs om informationsstrukturering och flerkanalspublicering med XML, som &#228;r en generell rekommendation f&#246;r hur data kan struktureras.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        }
+    ]
+}

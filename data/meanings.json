@@ -1,0 +1,36 @@
+{
+    "0": {
+        "D": {
+            "name":" School of Computer Science and Communication",
+            "abbr":"CSC"
+            }
+    },
+    "1": {
+        "D": {
+            "name":"Computer Science",
+            "abbr":"CS"
+            },
+        "H": {
+            "name":"Human Computer Interaction",
+            "abbr":"HCI"
+            },
+        "M": {
+            "name":"Media Technology",
+            "abbr":"Media"
+            }
+    },
+    "2": {
+        "1": {
+            "name":"First Cycle",
+            "abbr": "BSc"
+        },
+        "2": {
+            "name":"Second Cycle",
+            "abbr": "MSc"
+        },
+        "3": {
+            "name":"Third Cycle",
+            "abbr": "PhD"
+        }
+    }
+}

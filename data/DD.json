@@ -1,0 +1,1101 @@
+{
+    "department": "CSC/Datalogi",
+    "courses": [
+            {
+            "code": "DD3501",
+            "title": "Aktuell forskning inom beviskomplexitet",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3501",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2354",
+            "title": "Algoritmer och komplexitet",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2354",
+            "info": "<p>En forts&#228;ttningskurs i datalogi med inriktning p&#229; algoritmer och komplexitet, mer teoretisk &#228;n DD1352.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2450",
+            "title": "Algoritmisk bioinformatik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2450",
+            "info": "<p>En introduktion till den datalogiska delen av bioinformatik.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3450",
+            "title": "Algoritmisk Bioinformatik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3450",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3390",
+            "title": "Approximationsalgoritmer",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3390",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2439",
+            "title": "Artificiell intelligens och multiagentsystem, projektkurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2439",
+            "info": "<p>En avancerad projektkurs i datateknik d&#228;r studenterna i grupper om 8-15 personer ska konstruera ett multiagentsystem som kan spela en form av simulerad fotboll.<\/p>",
+            "credits": "21,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3372",
+            "title": "Automater och språk",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3372",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2371",
+            "title": "Automatteori",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2371",
+            "info": "<p>Automata are mathematical machines, that is, abstract computing devices. Their purpose is to capture, study and compare different models and views of the abstract notion of computation and its various aspects. The computational power of automata can be characterized through the classes of languages (that is, sets of strings over a finite alphabet of symbols) they can accept\/recognize. Important notions in computer science like state, nondeterminism and minimization are captured in the simple model of finite automata, which recognize the class of regular languages. Automata provide the basis for the implementation of many programming languages, with parsing being a typical example for the application of pushdown automata, which recognize the more powerful class of context-free languages. Another important reason for studying automata is to capture the notion of effective computability, that is, to characterize the notion of computation as a process which can be physically implemented. This allows the important question to be posed: what problems can be decided algorithmically, and where are the limits to this? The most influential model for studying these issues is Turing machines.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3371",
+            "title": "Avancerade beräkningsmetoder i flödesmekanik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3371",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2453",
+            "title": "Avancerade formella metoder",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2453",
+            "info": "<p>De senaste &#229;ren har en m&#228;ngd nya tekniker dykt upp med syftet att modellera och analysera system med avseende p&#229; egenskaper som distribution, mobilitet, prestanda, och s&#228;kerhet. Kursen 2D1453 &#228;r en avancerad, projektorienterad kurs som syftar till att s&#228;tta de studerande i niv&#229; med n&#229;gon utvald del av state-of-the-art inom omr&#229;det.<\/p><p>De studerande erbjuds ett antal id&#233;er till miniprojekt, i allm&#228;nhet baserade p&#229; att anpassa, modifiera, eller applicera n&#229;gon teknik som introduceras i en forskningsuppsats. Resultaten presenteras p&#229; en en-dags workshop i slutet av kursen. Kursens inneh&#229;ll kommer att variera fr&#229;n &#229;r till &#229;r, med olika urval av projektid&#233;er och tematisk inriktning. Varje tema blir underst&#246;tt, efter behov, av introducerande kursmoduler.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2456",
+            "title": "Avancerade objektorienterade system",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2456",
+            "info": "<p>This course is an advanced course for students who already have competence in Java\/c++\/UML and wish to deepen their understanding of the fundamental&#160;issues of object-orientation. The course covers both theory and practice.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3456",
+            "title": "Avancerade objektorienterade system",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3456",
+            "info": "<p>This course is an advanced course for students who already have competence in Java\/c++\/UML and wish to deepen their understanding of the fundamental&#160;issues of object-orientation. The course covers both theory and practice.<\/p>",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2461",
+            "title": "Avancerad kurs i programmering och problemlösning, del 1",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2461",
+            "info": "",
+            "credits": "20,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2462",
+            "title": "Avancerad kurs i programmering och problemlösning, del 2",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2462",
+            "info": "",
+            "credits": "10,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3010",
+            "title": "Avancerad maskininlärning I",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3010",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3443",
+            "title": "Basala ganglierna-läskurs om teorier och modeller",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3443",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3442",
+            "title": "Basala Ganglierna- undersökning av teorier och modeller",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3442",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3009",
+            "title": "Beräkningsaspekter på fylogeni",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3009",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3007",
+            "title": "Beräkningsbaserad modellering inom aktuell neurovetenskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3007",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD1371",
+            "title": "Beslutstödssystem",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1371",
+            "info": "<p>En forts&#228;ttningskurs i datalogi med syfte att ge grundl&#228;ggande kunskap om beslutst&#246;dssystem.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD2422",
+            "title": "Bildbehandling och datorseende",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2422",
+            "info": "<p>En kurs i datalogi som behandlar grundl&#228;ggande teori, modeller och metoder f&#246;r datorseende, bildanalys, bildbehandling och bildkompression.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2396",
+            "title": "Bioinformatik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2396",
+            "info": "",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2400",
+            "title": "Cell- och molekylärbiologi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2400",
+            "info": "<p>Kursen i cell- och molekyl&#228;rbiologi ger en helhetsbild av det cell- och molekyl&#228;rbiologiska aktivitetsomr&#229;det. Kursen omfattar allm&#228;nna baskunskaper, terminologi samt analysredskap i cell- och molekyl&#228;rbiologi samt belyser &#228;mnena immunologi, mikrobiologi och molekyl&#228;r medicin. Dessa kunskaper integreras med de andra disciplinerna inom biomedicinsk teknik.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2430",
+            "title": "Dataanalys, projektkurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2430",
+            "info": "",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2472",
+            "title": "Databassystemutveckling för moderna tillämpningar",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2472",
+            "info": "<p>Avancerad kurs i datalogi. Kursen ska ge kunskaper om utveckling av applikationsprogram som anv&#228;nder en databas f&#246;r att lagra data och eventuellt &#228;ven programkod och k&#246;rbara programmoduler.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD1364",
+            "title": "Databasteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1364",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som behandlar grunderna inom databastekniken.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD228V",
+            "title": "Databasteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD228V",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som behandlar grunderna inom databastekniken.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD1051",
+            "title": "Databasteknik och datorkommunikation",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1051",
+            "info": "",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1370",
+            "title": "Databasteknik och informationssystem",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1370",
+            "info": "<p>En kurs i datalogi som behandlar grunderna inom databasteknik och informationssystem.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD2469",
+            "title": "Databasteori",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2469",
+            "info": "<p>En avancerad kurs i datalogi som behandlar de teoretiska, matematiska, grunderna f&#246;r databassystem.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "2D5342",
+            "title": "Databrytning",
+            "href": "http://www.kth.se/student/kurser/kurs/2D5342",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3342",
+            "title": "Databrytning",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3342",
+            "info": "<p>Den &#246;kande anv&#228;ndningen av IT och automatiska system som samlar in och lagrar information &#228;r en k&#228;lla till stora m&#228;ngder data. Denna information kan ofta anv&#228;ndas f&#246;r att f&#229; fram kunskap&#160; om systemen som kan anv&#228;ndas i aff&#228;rs- och f&#246;rb&#228;ttringssyfte. I vetenskapliga aktiviteter kan man idag samla s&#229; mycket data fr&#229;n experiment att analys med konventionella statistiska metoder inte kan g&#246;ras av resurssk&#228;l.<\/p><p>Metoder att systematiskt l&#229;ta datorn uppt&#228;cka kunskap i rudiment&#228;r form &#228;r d&#228;rf&#246;r intressanta. Databrytning och kunskapsuppt&#228;ckt &#228;r ett omr&#229;de d&#228;r man studerar metoder att 'bryta' eller exploatera inneh&#229;llet i stora databaser.<\/p><p>I denna kurs introducerar vi de vanligaste metoderna p&#229; omr&#229;det som utvecklats<\/p><p>inom discipliner som databasteknik, artificiell intelligens, statistik och<\/p><p>visualisering. S&#228;rskilt viktigt &#228;r att f&#229; fram sann och intressant i motsats till felaktig, slumpartad eller ointressant kunskap.<\/p><p>I kursen l&#228;ggs ett statistikperspektiv p&#229; omr&#229;det.<\/p>",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD112V",
+            "title": "Datalogi I, grundkurs med Javaprogrammering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD112V",
+            "info": "",
+            "credits": "15,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD217V",
+            "title": "Datalogi II, algoritmer och datastrukturer",
+            "href": "http://www.kth.se/student/kurser/kurs/DD217V",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD1343",
+            "title": "Datalogi och numeriska metoder, del 1",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1343",
+            "info": "<p>En grundl&#228;ggande kurs i datalogi och Matlab.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD2428",
+            "title": "Datorgeometri och visualisering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2428",
+            "info": "<p>En kurs i datalogi som behandlar grundl&#228;ggande teori och metodik f&#246;r att f&#246;rst&#229; samband mellan information i tv&#229;-dimensionella (2D) bilder och&#160;tre-dimensionella (3D) scener.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3313",
+            "title": "Datorseende, läsecirkel",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3313",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3008",
+            "title": "Distribuerade algoritmer",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3008",
+            "info": "<p>Introductory postgraduate level course in computer science on the theory, algorithms, and techniques of parallel and distributed computing systems.<\/p>",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3424",
+            "title": "Djupinlärning i Data Science",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3424",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3432",
+            "title": "Doktorandkurs i artificiella neuronnät och andra lärande system",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3432",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3431",
+            "title": "Doktorandkurs i maskininlärning",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3431",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3435",
+            "title": "Doktorandkurs i neuronnäts- och biomodellering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3435",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD226X",
+            "title": "Examensarbete inom biologisk fysik, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DD226X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete av utredande karakt&#228;r inom biologisk fysik eller fysik med biologiska till&#228;mpningar.<\/p>",
+            "credits": "30,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD225X",
+            "title": "Examensarbete inom biomedicinsk teknik, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DD225X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom biomedicinsk teknik av utredande karakt&#228;r.<\/p>",
+            "credits": "30,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD221X",
+            "title": "Examensarbete inom datalogi, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DD221X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom datalogi av utredande karakt&#228;r.<\/p>",
+            "credits": "30,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD245X",
+            "title": "Examensarbete inom datalogi, avancerad nivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DD245X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom datalogi av utredande karakt&#228;r.<\/p>",
+            "credits": "15,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD150X",
+            "title": "Examensarbete inom teknik och management, grundnivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DD150X",
+            "info": "<p>Ett sj&#228;lvst&#228;ndigt arbete inom teknik och management av utredande karakt&#228;r.<br \/>Examensarbetet &#228;r obligatoriskt f&#246;r den som vill ta ut kandidatexamen.<\/p>",
+            "credits": "15,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD151X",
+            "title": "Examensarbete i teknik: Datateknik, kommunikation och industriell ekonomi, grundnivå",
+            "href": "http://www.kth.se/student/kurser/kurs/DD151X",
+            "info": "<p>Ett relativt stort sj&#228;lvst&#228;ndigt arbete inom datalogi av utredande karakt&#228;r.<\/p><p>Kursen &#228;r avsedd f&#246;r studenter p&#229; civilingenj&#246;rsprogrammet i industriell ekonomi, med inriktning datateknik och kommunikation.<\/p>",
+            "credits": "15,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD3001",
+            "title": "Forskning: teori, metod, praktik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3001",
+            "info": "<p>En forskare vid ett universitet eller i industrin beh&#246;ver, ut&#246;ver sin specialiserade kompetens som utvecklas under avhandlingsarbetet, &#228;ven f&#246;rm&#229;ga att analysera och v&#228;rdera forskning inom ett bredare omr&#229;de, kunskap om och f&#246;rm&#229;ga att till&#228;mpa procedurer och regler f&#246;r sitt arbete som etiska riktlinjer och f&#246;rh&#229;llningsregler, och s&#228;tt att motivera och finansiera sin forskning i en forskarkarri&#228;r.<\/p>",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD1344",
+            "title": "Grundläggande datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1344",
+            "info": "<p>En grundl&#228;ggande kurs i datalogi med tyngdpunkt p&#229; datalogins vetenskapliga grund.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1335",
+            "title": "Grundläggande internetprogrammering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1335",
+            "info": "<p>Kursen ska ge kunskap om och f&#228;rdigheter i grundl&#228;ggande tekniker f&#246;r utformning av webbaserade till&#228;mpningar, s&#229; att studenterna ska kunna utforma och konstruera levande webbsidor och klient-servertill&#228;mpningar.<\/p>",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD3375",
+            "title": "Högprestandamodellering med finita element",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3375",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3451",
+            "title": "Individuell kurs i beräkningsbiologi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3451",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "2D5348",
+            "title": "Individuell kurs i datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/2D5348",
+            "info": "",
+            "credits": "4,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2475",
+            "title": "Informationssökning",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2475",
+            "info": "<p>En kurs i datalogi som behandlar grundl&#228;ggande teori, modeller och metoder f&#246;r datorbaserad informationss&#246;kning.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3344",
+            "title": "Integritetsskyddande teknologier",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3344",
+            "info": "<p>Privacy has become an increasingly important topic as our data and data about us is both increasing and more and more being collected and mined. This course will give an overview of privacy concepts and terminology as well as concrete examples of privacy-enhancing technologies (PET) and some of their applications.<\/p>",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3336",
+            "title": "Interaktiv underhållningsteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3336",
+            "info": "<p>Datorspelsbranschen &#228;r redan en industri v&#228;rd flera miljarder dollar, ber&#228;knad att n&#229; 82 miljarder dollar p&#229; den globala marknaden &#229;r 2017. K&#228;rnan i dessa produkter &#228;r sofistikerade realtidsalgoritmer och infrastrukturer (t.ex. spelmotorer) som grundar sig i omr&#229;den s&#229;som datorgrafik, artificiell intelligens, HCl, datavetenskap och matematik. Underh&#229;llningsteknik kommer att forts&#228;tta att vara avg&#246;rande f&#246;r att trycka tillbaka tekniska hinder f&#246;r att m&#246;jligg&#246;ra nya former av interaktiva upplevelser och kommunikation, och de utg&#246;r en viktig l&#228;nk mellan akademin och industriforskningsinstitut.<\/p>",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2390",
+            "title": "Internetprogrammering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2390",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som ger en bred &#246;versikt &#246;ver internetprogrammering.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2392",
+            "title": "Internets protokoll och principer",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2392",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som ger en god inblick i och &#246;verblick &#246;ver internetteknik och tj&#228;nster p&#229; Internet.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2393",
+            "title": "Internets protokoll och principer",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2393",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som ger en god inblick i och &#246;verblick &#246;ver internetteknik och tj&#228;nster p&#229; Internet.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD1339",
+            "title": "Introduktion till datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1339",
+            "info": "<p>En grundl&#228;ggande kurs i datalogi som inleds med en introduktion till datoranv&#228;ndning.<\/p>",
+            "credits": "19,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1340",
+            "title": "Introduktion till datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1340",
+            "info": "<p>En grundl&#228;ggande kurs i datalogi som inleds med en introduktion till datoranv&#228;ndning.<\/p>",
+            "credits": "18,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1341",
+            "title": "Introduktion till datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1341",
+            "info": "<p>En grundl&#228;ggande kurs i datalogi som inleds med en introduktion till datoranv&#228;ndning.<\/p>",
+            "credits": "16,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD3258",
+            "title": "Introduktion till högprestandaberäkningar",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3258",
+            "info": "<p>En forts&#228;ttningskurs som behandlar algoritmer och tekniker f&#246;r h&#246;gprestandaber&#228;kningar.<\/p>",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3015",
+            "title": "Introduktion till programmering med GPGPU och användning för vetenskapliga beräkningar",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3015",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2490",
+            "title": "IP-routning inom enkla datornät",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2490",
+            "info": "<p>Kurs i datalogi som ger goda grundkunskaper inom Internetteknik.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2491",
+            "title": "IP-routning på internet och andra sammansatta nät",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2491",
+            "info": "<p>En avancerad kurs i datalogi som behandlar routning mellan autonoma system p&#229; Internet. En central del i kursen &#228;r samverkan mellan lokala och globala n&#228;t och de problem som d&#229; kan uppst&#229; som exempelvis &#246;verg&#229;ngen fr&#229;n intern routning till principbaserad routning.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3402",
+            "title": "Kombinatorisk optimering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3402",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2446",
+            "title": "Komplexitetsteori",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2446",
+            "info": "<p>En avancerad kurs i datalogi som behandlar modern komplexitetsteori.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "2D5330",
+            "title": "Kryptografins grunder",
+            "href": "http://www.kth.se/student/kurser/kurs/2D5330",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2449",
+            "title": "Kryptografins grunder",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2449",
+            "info": "<p>En avancerad kurs i datalogi som ger en orientering om modern kryptografi.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3335",
+            "title": "Kvantberäkning",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3335",
+            "info": "<p>The purpose of this course is to give a concise introduction<br \/>to the theory of quantum computation. We will be in particular<br \/>concerned with the algorithmic aspects of the theory, but topics<br \/>such as quantum computational complexity, classical simulation of<br \/>quantum circuits and exotic models of quantum computation will<br \/>also be addressed.<br \/>The expected audience for the course will be master and PhD students<br \/>in computer science, mathematics or physics, but in principle anybody<br \/>with enough curiosity will be more than welcome. The main prerequisite<br \/>for the course is a good knowledge of linear algebra.<\/p>",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2398",
+            "title": "Kvantitativ systembiologi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2398",
+            "info": "<p>Kursens syfte &#228;r att presentera molekyl&#228;rbiologi<br \/>fr&#229;n ett mekanistiskt perspektiv, samt ge en inblick i<br \/>aktuella fr&#229;gest&#228;llningar och metoder i systembiologin.<br \/>Fokus ligger p&#229; att beskriva genreglering och<br \/>regulatoriska n&#228;tverk.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3019",
+            "title": "Läskurs i datalogi för doktorander",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3019",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3016",
+            "title": "Läskurs i datalogi för doktorander 1,5 hp",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3016",
+            "info": "",
+            "credits": "1,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3017",
+            "title": "Läskurs i datalogi för doktorander 3 hp",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3017",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3018",
+            "title": "Läskurs i datalogi för doktorander 6 hp",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3018",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3334",
+            "title": "Läskurs om statistisk avvikelsedetektion",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3334",
+            "info": "<p>Statistisk avvikelsedetektion &#228;r ett allt viktigare omr&#229;de inom dataanalys och maskininl&#228;rning, och en viktig del i utvecklingen av autonoma system i industrin. Omr&#229;det innefattar ett stort antal s&#229;v&#228;l parametriska som icke-parametriska statistiska metoder f&#246;r att modellera olika typer av data. Samtidigt &#228;r det viktigt att ta h&#228;nsyn till egenskaper som robusthet, andel falsklarm, skalbarhet, och tids&#229;tg&#229;ng, f&#246;r att metoderna ska kunna hantera verkliga datam&#228;ngders olika egenskaper.<\/p><p>Kursens m&#229;l &#228;r att ge studenterna en &#246;verblick &#246;ver omr&#229;dets olika metoder och deras egenskaper, samt en f&#246;rst&#229;else f&#246;r vilka metoder som kan v&#228;ntas fungerar i olika sammanhang.<\/p>",
+            "credits": "4,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3434",
+            "title": "Maskininlärning, avancerad kurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3434",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3012",
+            "title": "Maskininlärning, läsecirkel",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3012",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD221V",
+            "title": "Maskinnära programmering och datorarkitektur",
+            "href": "http://www.kth.se/student/kurser/kurs/DD221V",
+            "info": "<p>En kurs om hur datorer &#228;r uppbyggda och exekverar program samt hur man skriver effektiva program som utnyttjar dessa.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2377",
+            "title": "Maskinnära programmering och datorarkitektur",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2377",
+            "info": "<p>En kurs om hur datorer &#228;r uppbyggda och exekverar program samt hur man skriver effektiva program som utnyttjar dessa.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD1363",
+            "title": "Mjukvarukonstruktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1363",
+            "info": "<p>Second course in computer science giving theoretical knowledge and practical experience of working in a program development project.<\/p>",
+            "credits": "12,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1365",
+            "title": "Mjukvarukonstruktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1365",
+            "info": "<p>An advanced course in computer science that provides theoretical and practical skills for large software development projects.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD3459",
+            "title": "Mjukvaru pålitlighet",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3459",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3370",
+            "title": "Mjukvaruutvecklingsverktyg för tekniska beräkningar",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3370",
+            "info": "",
+            "credits": "5,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2436",
+            "title": "Modellering av cellbiologiska processer",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2436",
+            "info": "<p>Kursen behandlar matematisk modellering och datorsimulering av cellens biokemiska reaktioner, reaktionsn&#228;tverk samt genetiska reglern&#228;tverk.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3401",
+            "title": "Neurovetenskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3401",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DA1011",
+            "title": "Numeriska metoder för SU",
+            "href": "http://www.kth.se/student/kurser/kurs/DA1011",
+            "info": "",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD2492",
+            "title": "Nätdesign, projektkurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2492",
+            "info": "<p>En avancerad laborationskurs i datalogi som behandlar design av relativt stora campus- och backbonedatorn&#228;tverk p&#229; intern och extern niv&#229;.<\/p>",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2495",
+            "title": "Nätverkssäkerhet",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2495",
+            "info": "<p>Forts&#228;ttningskurs i datalogi som ger &#246;versikt &#246;ver &#228;mnet n&#228;tverkss&#228;kerhet.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD235V",
+            "title": "Objektorienterad programmering, analys och design, Java",
+            "href": "http://www.kth.se/student/kurser/kurs/DD235V",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2399",
+            "title": "Omikdata och systembiologi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2399",
+            "info": "<p>Advanced course in computer science focusing on the analysis of high troughput omics data (i.e., genomic, transcriptomic, and proteomic data).<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3003",
+            "title": "Parallella beräkningar: teori - maskinvara - programvara, med särskilt fokus på flerkärnig programmering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3003",
+            "info": "<p>With the wide spread availability of multi-core systems and general-purpose graphics processing units (GPGPUs) mastering parallel computing is becoming increasingly important. At the same time high-end parallel systems are increasing in their complexity and offer unprecedented levels of parallelism. This course will provide students with the basic knowledge to understand and master the challenges of parallel computing. Multi-core architectures and programming will be emphasized.<\/p>",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2451",
+            "title": "Parallella och distribuerade beräkningar",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2451",
+            "info": "<p>Avancerad kurs i datalogi som behandlar teori, algoritmer, och tekniker f&#246;r parallella och distribuerade system.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3460",
+            "title": "Plagiatkontroll och grafisomorfi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3460",
+            "info": "<p>L&#228;skurs om plagiatkontroll och grafisomorfi.<\/p>",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD1342",
+            "title": "Programkonstruktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1342",
+            "info": "<p>En grundl&#228;ggande kurs i programmering som behandlar imperativ och objektorienterad programmering. Programspr&#229;ket &#228;r Java.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1050",
+            "title": "Programmering, grundkurs",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1050",
+            "info": "",
+            "credits": "7,5",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD1311",
+            "title": "Programmeringsteknik med PBL",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1311",
+            "info": "<p>En kurs i grundl&#228;ggande programmeringsteknik som undervisas med problembaserat l&#228;rande.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD3457",
+            "title": "Programsemantik och programanalys",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3457",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2387",
+            "title": "Programsystemkonstruktion med C++",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2387",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som ger goda kunskaper i spr&#229;ket C++ och behandlar tekniker f&#246;r effektiv konstruktion av stora programsystem i C++.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2388",
+            "title": "Programsystemkonstruktion med .NET Framework",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2388",
+            "info": "<p>Kursen &#228;r en forts&#228;ttningskurs i datalogi som ger en god &#246;versikt &#246;ver och tr&#228;ning i Microsofts .NET-teknologi. Kraven som st&#228;llts p&#229; utvecklare i .NET &#228;r vitt skilda, fr&#229;n RAD (Rapid Application Development) till l&#229;ngsiktigt h&#229;llbara aff&#228;rssystem. Kursen har som ambition att s&#229; v&#228;l som m&#246;jligt, givet den avsatta tiden, f&#246;rbereda er p&#229; n&#228;ringslivets krav p&#229; utveckling med .NET-plattformen.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD243V",
+            "title": "Programutvecklingsteknik med -NET Framework",
+            "href": "http://www.kth.se/student/kurser/kurs/DD243V",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som ger en god &#246;versikt &#246;ver och tr&#228;ning i Microsofts .NET-teknologi.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3359",
+            "title": "Reinforcement Learning",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3359",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3316",
+            "title": "Robotik, läsecirkel",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3316",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2426",
+            "title": "Robotik och autonoma system",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2426",
+            "info": "<p>En avancerad kurs i datalogi som behandlar det breda, interdisciplin&#228;ra omr&#229;det robotik. Deltagarna designar, bygger och programmerar robotar i grupper. Dessa robotar t&#228;vlar sedan mot varandra som ett avslutande moment.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2494",
+            "title": "Routing på Internet och andra paketväxlade nät",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2494",
+            "info": "",
+            "credits": "9,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2454",
+            "title": "Semantik för programspråk",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2454",
+            "info": "<p>To give a semantics for a programming language means to give a precise definition of the behaviour of programs written in this language. Only when the semantics of the language has been fixed, one can go about to prove such important properties like determinism and termination, equivalence of constructs, or that a given program meets its specification. Different semantic styles have been developed for different purposes, depending on the level of detail needed for the particular task. The most important ones are: operational semantics, denotational semantics and axiomatic semantics.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2493",
+            "title": "Seminariekurs i grid- och internetteknik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2493",
+            "info": "<p>En avancerad kurs i grid- och internetteknik med varierande inneh&#229;ll fr&#229;n &#229;r till &#229;r.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3327",
+            "title": "Seminariekurs i högpresterande beräkningar och visualisering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3327",
+            "info": "<p>In this course the student will practice to engage in interdisciplinary research outside the particular area of expertise of the student, within the domain of high performance computing and visualization. The course aciivities consists of participation in 4 interdisciplinary seminars, including giving a 45 minutes presentation of ones sresearach at one seminar to an interdisciplinary audience, and writing a project plan for an interdisciplinary research project connecting the research of the student to other research presented in the seminars.<\/p>",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2441",
+            "title": "Seminariekurs i teoretisk datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2441",
+            "info": "<p>En avancerad kurs i teoretisk datalogi med varierande inneh&#229;ll fr&#229;n &#229;r till &#229;r.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3343",
+            "title": "Seminariekurs i teoretisk datavetenskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3343",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3011",
+            "title": "Seminarier i statisk analys",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3011",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3321",
+            "title": "Senaste framstegen inom beräkningar i molnet",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3321",
+            "info": "<p>New achievements with a fundamental importance in the field of cloud computing will be evaluated in this graduate reading course. After introductory discussions, every participant should search for relevant research literature, work through it, give a presentation and actively contribute to the overall discussions as well as write a short report.<\/p>",
+            "credits": "5,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3447",
+            "title": "Statistiska metoder i datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3447",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3364",
+            "title": "Statistisk inlärning",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3364",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3350",
+            "title": "Storverk i teoretisk datavetenskap",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3350",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3341",
+            "title": "Studier i teoretisk datalogi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3341",
+            "info": "",
+            "credits": "2,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3013",
+            "title": "Summan av kvadrater och heltalsprogrammeringslättnader",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3013",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3356",
+            "title": "Systemintegration i robotik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3356",
+            "info": "",
+            "credits": "7,5",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3433",
+            "title": "Systemnivåteorier för hjärnfunktion",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3433",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD225V",
+            "title": "Systemprogrammering och operativsystem",
+            "href": "http://www.kth.se/student/kurser/kurs/DD225V",
+            "info": "<p>En kurs om operativsystem och hur man programmerar n&#228;ra dessa.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2486",
+            "title": "Systemprogrammering och operativsystem",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2486",
+            "info": "<p>En kurs om operativsystem och hur man programmerar n&#228;ra dessa.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3006",
+            "title": "Temporal logik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3006",
+            "info": "",
+            "credits": "4,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD2455",
+            "title": "Teoretiska grunder för objektorientering",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2455",
+            "info": "<p>This course covers the theoretical foundations of object-oriented programming. After a review of the principles of object-orientation, we consider a number of mathematical models of different aspects of object-oriented languages, including: abstract data types, concurrency, sequential correctness and type checking.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2397",
+            "title": "Tillämpad bioinformatik",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2397",
+            "info": "",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD1322",
+            "title": "Tillämpad programmering och datalogi, del 1",
+            "href": "http://www.kth.se/student/kurser/kurs/DD1322",
+            "info": "<p>En grundl&#228;ggande kurs i datalogi och programmeringspraktik. Kursen best&#229;r av de&#160;sex f&#246;rsta po&#228;ngen i DD1321 och &#228;r avsedd f&#246;r den som inte har plats med hela DD1321. Det g&#229;r att komplettera med resten av DD1321 genom trepo&#228;ngskursen DD1324.<\/p>",
+            "credits": "6,0",
+            "level": "Grundnivå"
+        },
+            {
+            "code": "DD231V",
+            "title": "Utveckling av webbtillämpningar med Enterprise Java",
+            "href": "http://www.kth.se/student/kurser/kurs/DD231V",
+            "info": "<p>Kursen ger kunskap i att utveckla webserverapplikationer. De tekniker som behandlas &#228;r JSP, JDBC, Servlets och EJB. M&#229;nga laborationer ing&#229;r.<\/p>",
+            "credits": "7,5",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD2483",
+            "title": "Utveckling av webbtillämpningar med Enterprise Java",
+            "href": "http://www.kth.se/student/kurser/kurs/DD2483",
+            "info": "<p>En forts&#228;ttningskurs i datalogi som ger grundl&#228;ggande kunskaper i Enterprise Java.<\/p>",
+            "credits": "6,0",
+            "level": "Avancerad nivå"
+        },
+            {
+            "code": "DD3436",
+            "title": "Vetenskaplig programmering i Python för beräkningsbiologi",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3436",
+            "info": "",
+            "credits": "5,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3337",
+            "title": "Ämnen i datorseende I",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3337",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3338",
+            "title": "Ämnen i datorseende II",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3338",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3339",
+            "title": "Ämnen i datorseende III",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3339",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3353",
+            "title": "Ämnen i robotik I",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3353",
+            "info": "",
+            "credits": "3,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3354",
+            "title": "Ämnen i robotik II",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3354",
+            "info": "",
+            "credits": "6,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3355",
+            "title": "Ämnen i robotik III",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3355",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        },
+            {
+            "code": "DD3314",
+            "title": "Övervakning av moln- och mjukvarubaserade nätverk",
+            "href": "http://www.kth.se/student/kurser/kurs/DD3314",
+            "info": "",
+            "credits": "9,0",
+            "level": "Forskarnivå"
+        }
+    ]
+}
