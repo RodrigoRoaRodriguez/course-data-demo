@@ -20,7 +20,7 @@ Promise.all(allJson).then(initialize)
 function initialize(departments){
     let courses = departments.map(dep => dep.courses) 
     let data = [].concat.apply([], courses)
-    // console.log(data)
+    console.log(data)
     
     let treemap = new Treemap(data)
     let svg = d3.select('svg#visualization')
