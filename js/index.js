@@ -22,7 +22,7 @@ function initialize(departments){
     let data = [].concat.apply([], courses)
     console.log(data)
     
-    let treemap = new Treemap(data)
+    let treemap = new TooltipedTreemap(data)
     let svg = d3.select('svg#visualization')
     treemap.drawOnSVG(svg)
 }
