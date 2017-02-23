@@ -92,8 +92,10 @@ svg#visualization {
 
 img#brand{
   height: 2.5em;
-  padding-top: .25em;
-  padding-left: 1em;
+  margin-top: .25em;
+  margin-left: 1em;
+  border-radius: 100%;
+  box-shadow: 0 0 2vw rgba(0, 0, 0, 0.5);
 }
 
 @media (max-width: 600px)  {
