@@ -36,13 +36,14 @@ class Treemap {
     return d.y1 - d.y0
   }
   static isNodeOblong(d) {
-    return Treemap.nodeHeight(d) > Treemap.nodeWidth(d)
+    const NOT_SQUARISH_FACTOR = 1.3;
+    return Treemap.nodeHeight(d) > Treemap.nodeWidth(d)*NOT_SQUARISH_FACTOR 
   }
 }
 
 Treemap.prototype.drawOnSVG = function(svg) {
-  let colorScale = d3.scaleOrdinal(d3.schemeCategory10)
-  let perCourse = svg.selectAll('g')
+  const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
+  const perCourse = svg.selectAll('g')
     .data(this.treemapData.leaves())
     .enter().append('g')
     .attr('transform', d => 'translate(' + d.x0 + ',' + d.y0 + ')')
@@ -54,17 +55,28 @@ Treemap.prototype.drawOnSVG = function(svg) {
     .attr('height', Treemap.nodeHeight)
     .attr('fill', d => colorScale(d.data.code.substring(0,2)))
 
-  let labels = perCourse.append('text')
+  const labels = perCourse.append('text')
 
-  labels.filter(Treemap.isNodeOblong);
-  // .attr('transform','rotate(90)')  
+  const narrow = labels.filter(Treemap.isNodeOblong)
+  const thick = labels.filter(d=>!Treemap.isNodeOblong(d))
+  
+  narrow
+    .attr('transform', d => `rotate(90) translate(0 ${-Treemap.nodeWidth(d)})`)
+    .style('font-size', d => Math.min(
+      Treemap.nodeWidth(d)/1.25, 
+      Treemap.nodeHeight(d)/5))
+  
+  thick
+    .style('font-size', d => Math.min(
+      Treemap.nodeWidth(d)/5, 
+      Treemap.nodeHeight(d)/1.25))
+
 
   labels.append('tspan')
     .attr('dy', '1em')
     // .attr('dy', '-.2em')
     .attr('x', '.2em')
     .style('font-weight', 'bold')
-    .style('font-size', d => Math.min(Treemap.nodeWidth(d)/5, Treemap.nodeHeight(d)/1.25))
     .text(d => d.data.code)
 
   //   labels.selectAll('tspan.time').data(d=>d.data.time.split('–')).enter()
