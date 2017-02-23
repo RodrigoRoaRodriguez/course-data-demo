@@ -27,19 +27,20 @@ class Treemap {
 
     // Actually store the data
     this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
-    console.log(this.treemapData)
   }
   static nodeWidth(d) {
     return d.x1 - d.x0
   }
   static nodeHeight(d) {
-    return d.y1 - d.y0
+    if (d.y1 - d.y0 < 3) console.log(d)
+    return Math.max(d.y1 - d.y0, 3)
   }
   static isNodeOblong(d) {
     const NOT_SQUARISH_FACTOR = 1.3;
     return Treemap.nodeHeight(d) > Treemap.nodeWidth(d)*NOT_SQUARISH_FACTOR 
   }
 }
+    console.log(this.treemapData)
 
 Treemap.prototype.drawOnSVG = function(svg) {
   const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
@@ -64,11 +65,11 @@ Treemap.prototype.drawOnSVG = function(svg) {
     .attr('transform', d => `rotate(90) translate(0 ${-Treemap.nodeWidth(d)})`)
     .style('font-size', d => Math.min(
       Treemap.nodeWidth(d)/1.25, 
-      Treemap.nodeHeight(d)/5))
+      Treemap.nodeHeight(d)/4.5))
   
   thick
     .style('font-size', d => Math.min(
-      Treemap.nodeWidth(d)/5, 
+      Treemap.nodeWidth(d)/4.5, 
       Treemap.nodeHeight(d)/1.25))
 
 
