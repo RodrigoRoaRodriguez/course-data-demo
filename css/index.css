@@ -98,6 +98,22 @@ img#brand{
   box-shadow: 0 0 2vw rgba(0, 0, 0, 0.5);
 }
 
+div.tooltip {
+    z-index: 9;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 80vh;
+    width: 80vw;
+    background-color: #039BE5;
+    box-shadow: 1vw 1vh 3vw rgba(0, 0, 0, 0.5);
+}
+
+.hidden{
+  display: none;
+}
+
 @media (max-width: 600px)  {
   main {
     flex-direction:column

@@ -32,7 +32,6 @@ class Treemap {
     return d.x1 - d.x0
   }
   static nodeHeight(d) {
-    if (d.y1 - d.y0 < 3) console.log(d)
     return Math.max(d.y1 - d.y0, 3)
   }
   static isNodeOblong(d) {
@@ -40,13 +39,20 @@ class Treemap {
     return Treemap.nodeHeight(d) > Treemap.nodeWidth(d)*NOT_SQUARISH_FACTOR 
   }
 }
-    console.log(this.treemapData)
 
 Treemap.prototype.drawOnSVG = function(svg) {
   const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
-  const perCourse = svg.selectAll('g')
+  let zoomLayer = svg.append('g');
+  let zoom = d3.zoom()
+    .scaleExtent([-Infinity, Infinity])
+    .on('zoom', () => zoomLayer.attr('transform', d3.event.transform))
+    
+  svg.call(zoom)
+
+  const perCourse = zoomLayer.selectAll('g.course')
     .data(this.treemapData.leaves())
     .enter().append('g')
+    .attr('class', 'course')
     .attr('transform', d => 'translate(' + d.x0 + ',' + d.y0 + ')')
 
 
@@ -75,16 +81,7 @@ Treemap.prototype.drawOnSVG = function(svg) {
 
   labels.append('tspan')
     .attr('dy', '1em')
-    // .attr('dy', '-.2em')
     .attr('x', '.2em')
     .style('font-weight', 'bold')
     .text(d => d.data.code)
-
-  //   labels.selectAll('tspan.time').data(d=>d.data.time.split('–')).enter()
-  //     .append('tspan')
-  //     .attr('class', 'time')
-  //     .attr('dy', '1em')
-  //     .attr('x', 12)
-  //     .style('font-size', 11)
-  //     .text(d=>d)
 }
