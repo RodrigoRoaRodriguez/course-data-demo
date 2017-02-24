@@ -41,7 +41,7 @@ class Treemap {
 }
 
 Treemap.prototype.drawOnSVG = function(svg) {
-  const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
+  // Configure Zoom
   let zoomLayer = svg.append('g');
   let zoom = d3.zoom()
     .scaleExtent([-Infinity, Infinity])
@@ -49,6 +49,8 @@ Treemap.prototype.drawOnSVG = function(svg) {
     
   svg.call(zoom)
 
+  //Actually draw the treemap
+  const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
   const perCourse = zoomLayer.selectAll('g.course')
     .data(this.treemapData.leaves())
     .enter().append('g')
