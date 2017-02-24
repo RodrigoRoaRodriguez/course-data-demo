@@ -9,7 +9,7 @@ class Treemap {
     // The lines below make structured that data into a hierarchical datatype
     const makeNested = d3.nest()
       .key(course=> course.code.substring(0,2))
-      // .key(course => course.level)
+      .key(course => course.level)
 
     const NestedData = makeNested.entries(data)
 
@@ -23,7 +23,10 @@ class Treemap {
       .sort((a, b) => b.credits - (a.credits))
 
     // The layout adds the info necessary to draw the treemap
-    const makeTreemap = d3.treemap().size([1000, 563]).padding([2])
+    const makeTreemap = d3.treemap()
+      .size([1000, 563])
+      .paddingInner([2.5])
+      .padding([1])
 
     // Actually store the data
     this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
