@@ -17,8 +17,9 @@ Tooltip.prototype.hide = function(){
 Tooltip.prototype.show = function(){
     this.selection.classed('hidden', false)
 }
-Tooltip.prototype.update = function(node){
+Tooltip.prototype.update = function(node, bgColor = '#e91e63'){
     course = node.data
+    this.selection.style('background-color', bgColor)
     this.selection.selectAll('*').remove()
     
     this.selection.append('a').attr('href', course.href)
@@ -45,5 +46,5 @@ TooltipedTreemap.prototype.drawOnSVG = function(svg){
     let tooltip = new Tooltip()
     
     svg.selectAll('g.course')
-        .on('click', (d)=> tooltip.update(d))
+        .on('click', (d)=> tooltip.update(d, this.nodeColor(d)))
 }

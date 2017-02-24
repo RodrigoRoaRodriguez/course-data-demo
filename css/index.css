@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Overpass+Mono|Roboto');
-
 body {
   color: snow;
   font-family: 'Roboto', sans-serif;
@@ -10,8 +9,10 @@ body {
   background-color: #E71D36;
 }
 
-header, main, footer {
- display: flex;
+header,
+main,
+footer {
+  display: flex;
 }
 
 header {
@@ -27,15 +28,15 @@ nav {
   flex-wrap: wrap;
 }
 
-header nav{
+header nav {
   width: 90vw;
   justify-content: space-between;
 }
 
-nav > * {
+nav>* {
   flex-grow: 1;
   text-align: center;
-  background-color:#2196f3;
+  background-color: #2196f3;
   margin: 0 2vw;
   z-index: 3;
   box-shadow: 0 0 2vw rgba(0, 0, 0, 0.5);
@@ -44,7 +45,7 @@ nav > * {
   color: snow;
 }
 
-aside { 
+aside {
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -61,7 +62,8 @@ main {
 }
 
 footer {
-  display:none; /*delete this line to reenable footer*/ 
+  /*delete this line below to reenable footer*/
+  display: none;
   background-color: #1976d2;
   box-shadow: 0 -.5vh 2vh rgba(0, 0, 0, 0.5);
   z-index: 1;
@@ -74,7 +76,7 @@ aside {
   z-index: 1;
 }
 
-figure{
+figure {
   flex: 3;
 }
 
@@ -82,7 +84,7 @@ svg {
   font-family: 'Overpass Mono', monospace;
 }
 
-svg text tspan{
+svg text tspan {
   fill: snow;
 }
 
@@ -90,7 +92,7 @@ svg#visualization {
   background-color: #2E294E;
 }
 
-img#brand{
+img#brand {
   height: 2.5em;
   margin-top: .25em;
   margin-left: 1em;
@@ -99,37 +101,34 @@ img#brand{
 }
 
 div.tooltip {
-    z-index: 9;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    max-width: 80vw;
-    background-color: #ff9800;
-    box-shadow: 1vw 1vh 3vw rgba(0, 0, 0, 0.5);
-    padding: 2vw;
-    text-align: center;
+  z-index: 9;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80vw;
+  box-shadow: 1vw 1vh 3vw rgba(0, 0, 0, 0.5);
+  padding: 2vw;
+  text-align: center;
 }
 
-.hidden{
+.hidden {
   display: none;
 }
 
-@media (max-width: 600px)  {
+@media (max-width: 600px) {
   main {
-    flex-direction:column
+    flex-direction: column
   }
   aside {
     flex-basis: 100%;
   }
-
-  header{
+  header {
     display: flex;
     flex-direction: column;
   }
-  
-img#brand,
-  nav>*{
+  img#brand,
+  nav>* {
     flex-basis: 100%;
     margin: 1vw 0;
   }
