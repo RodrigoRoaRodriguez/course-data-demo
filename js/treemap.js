@@ -26,10 +26,13 @@
       const makeTreemap = d3.treemap()
         .size([1000, 563])
         .paddingInner([2.5])
-        .padding([1])
-
+        .padding([.5])
+      
       // Actually store the data
       this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
+      
+      //  
+      this.colorScale = d3.scaleOrdinal(d3.schemeCategory10)
     }
     static nodeWidth(d) {
       return d.x1 - d.x0
@@ -53,7 +56,6 @@
     svg.call(zoom)
 
     //Actually draw the treemap
-    const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
     const perCourse = zoomLayer.selectAll('g.course')
       .data(this.treemapData.leaves())
       .enter().append('g')
@@ -65,16 +67,16 @@
       .attr('id', d => d.data.key)
       .attr('width', Treemap.nodeWidth)
       .attr('height', Treemap.nodeHeight)
-      .attr('fill', d => colorScale(d.data.code.substring(0, 2)))
+      .attr('fill', d => this.colorScale(d.data.code.substring(0, 2)))
 
     rectangles
       .on('mouseover', function(d){
         d3.select(this)
-        .attr('fill', d => d3.color(colorScale(d.data.code.substring(0, 2))).brighter())
+        .attr('fill', d => d3.color(this.colorScale(d.data.code.substring(0, 2))).brighter())
       })
       .on('mouseout', function(d){
         d3.select(this)
-        .attr('fill', d => colorScale(d.data.code.substring(0, 2)))
+        .attr('fill', d => this.colorScale(d.data.code.substring(0, 2)))
       })
 
     const labels = perCourse.append('text')
