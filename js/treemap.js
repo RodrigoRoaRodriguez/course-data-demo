@@ -23,7 +23,7 @@ class Treemap {
       .sort((a, b) => b.credits - (a.credits))
 
     // The layout adds the info necessary to draw the treemap
-    const makeTreemap = d3.treemap().size([400, 200]).padding([2])
+    const makeTreemap = d3.treemap().size([1000, 563]).padding([2])
 
     // Actually store the data
     this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
@@ -32,7 +32,7 @@ class Treemap {
     return d.x1 - d.x0
   }
   static nodeHeight(d) {
-    return Math.max(d.y1 - d.y0, 3)
+    return d.y1 - d.y0
   }
   static isNodeOblong(d) {
     const NOT_SQUARISH_FACTOR = 1.3;
