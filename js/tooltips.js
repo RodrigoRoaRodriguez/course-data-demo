@@ -1,7 +1,13 @@
 class Tooltip {
   constructor(){
+    // Create the tooltip
     this.selection = d3.select('body').append('div').attr('class', 'tooltip')
-    .classed('hidden', true)
+    // Hide on creation and on click
+    this.selection     
+        .classed('hidden', true)
+        .on('click', ()=> this.hide())
+
+    
     console.log('A Tooltip has been created!')
   }
 }
@@ -11,6 +17,20 @@ Tooltip.prototype.hide = function(){
 Tooltip.prototype.show = function(){
     this.selection.classed('hidden', false)
 }
+Tooltip.prototype.update = function(node){
+    course = node.data
+    this.selection.selectAll('*').remove()
+    
+    this.selection.append('a').attr('href', course.href)
+    .attr('target','_blank')
+        .append('h1').text(course.code)
+
+    this.selection.append('h2').text(course.title)
+    this.selection.append('p').html(course.info)
+    this.show()
+
+}
+
 
 
 class TooltipedTreemap extends Treemap{
@@ -25,5 +45,5 @@ TooltipedTreemap.prototype.drawOnSVG = function(svg){
     let tooltip = new Tooltip()
     
     svg.selectAll('g.course')
-        .on('click', d=> console.log(d))
+        .on('click', (d)=> tooltip.update(d))
 }
