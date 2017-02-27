@@ -20,13 +20,14 @@ class Treemap {
 
     const hierarchicalData = d3.hierarchy(root, d => d.values)
       .sum(d => d.credits)
-      .sort((a, b) => b.credits - (a.credits))
+      .sort((a, b) => b.data.credits - a.data.credits)
 
     // The layout adds the info necessary to draw the treemap
     const makeTreemap = d3.treemap()
       .size([100, 50])
       .paddingInner([.5])
       .padding([.05])
+      // .tile(d3.treemapBinary)
 
     // Actually store the data
     this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
