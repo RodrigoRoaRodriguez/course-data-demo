@@ -24,9 +24,9 @@ class Treemap {
 
     // The layout adds the info necessary to draw the treemap
     const makeTreemap = d3.treemap()
-      .size([1000, 563])
-      .paddingInner([2.5])
-      .padding([.5])
+      .size([100, 50])
+      .paddingInner([.5])
+      .padding([.05])
 
     // Actually store the data
     this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
@@ -54,8 +54,9 @@ Treemap.prototype.drawOnSVG = function (svg) {
   // Configure Zoom
   let zoomLayer = svg.append('g');
   let zoom = d3.zoom()
-    .scaleExtent([-Infinity, Infinity])
+    .scaleExtent([.5, 100])
     .on('zoom', () => zoomLayer.attr('transform', d3.event.transform))
+  console.log(zoom)
 
   svg.call(zoom)
 
