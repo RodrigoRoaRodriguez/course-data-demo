@@ -9,7 +9,7 @@ class Treemap {
     // The lines below make structured that data into a hierarchical datatype
     const makeNested = d3.nest()
       .key(course => course.code.substring(0, 2))
-      .key(course => course.level)
+      // .key(course => course.level)
 
     const NestedData = makeNested.entries(data)
 
@@ -27,7 +27,7 @@ class Treemap {
       .size([100, 50])
       .paddingInner([.5])
       .padding([.05])
-      // .tile(d3.treemapBinary)
+      .tile(d3.treemapResquarify)
 
     // Actually store the data
     this.treemapData = makeTreemap(hierarchicalData, d => d.credits)
@@ -42,13 +42,15 @@ class Treemap {
     return d.y1 - d.y0
   }
   static isNodeOblong(d) {
-    const NOT_SQUARISH_FACTOR = 1.3;
+    const NOT_SQUARISH_FACTOR = 2.5
     return Treemap.nodeHeight(d) > Treemap.nodeWidth(d) * NOT_SQUARISH_FACTOR
   }
 }
 
 Treemap.prototype.nodeColor = function (node) {
-  return this.colorScale(node.data.code.substring(0, 2))
+  // If parent: node.data.key, if leaf: node.data.code
+  let str = node.data.key || node.data.code
+  return this.colorScale(str.substring(0, 2))
 }
 
 Treemap.prototype.drawOnSVG = function (svg) {
@@ -56,13 +58,18 @@ Treemap.prototype.drawOnSVG = function (svg) {
   let zoomLayer = svg.append('g');
   let zoom = d3.zoom()
     .scaleExtent([.5, 100])
-    .on('zoom', () => zoomLayer.attr('transform', d3.event.transform))
-  console.log(zoom)
+    .on('zoom', () => {
+      console.log('hello', d3.event.transform.k);
+      zoomLayer.attr('transform', d3.event.transform)
+ })
 
   svg.call(zoom)
 
+
+  console.log(this.treemapData.children.filter(d=>d.depth == 1))
   //Actually draw the treemap
   const perCourse = zoomLayer.selectAll('g.course')
+    // .data(this.treemapData.children.filter(d=>d.depth == 1))
     .data(this.treemapData.leaves())
     .enter().append('g')
     .attr('class', 'course')
@@ -106,5 +113,5 @@ Treemap.prototype.drawOnSVG = function (svg) {
     .attr('dy', '1em')
     .attr('x', '.2em')
     .style('font-weight', 'bold')
-    .text(d => d.data.code)
+    .text(d => d.data.key || d.data.code)
 }
