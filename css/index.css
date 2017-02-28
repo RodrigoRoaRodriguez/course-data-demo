@@ -100,6 +100,11 @@ img#brand {
   box-shadow: 0 0 2vw rgba(0, 0, 0, 0.5);
 }
 
+text#zoom-label {
+    fill: snow;
+    font-size: 2px;
+}
+
 div.tooltip {
   z-index: 9;
   position: absolute;
@@ -115,6 +120,7 @@ div.tooltip {
 .hidden {
   display: none;
 }
+
 
 @media (max-width: 600px) {
   main {

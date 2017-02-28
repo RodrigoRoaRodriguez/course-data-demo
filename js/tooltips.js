@@ -41,8 +41,8 @@ class TooltipedTreemap extends Treemap{
     }
 }
 
-TooltipedTreemap.prototype.drawOnSVG = function(svg){
-    Treemap.prototype.drawOnSVG.call(this, svg)
+TooltipedTreemap.prototype.appendToSVG = function(svg){
+    Treemap.prototype.appendToSVG.call(this, svg)
     let tooltip = new Tooltip()
     
     svg.selectAll('g.course')

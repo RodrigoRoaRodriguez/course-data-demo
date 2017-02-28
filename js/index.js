@@ -27,6 +27,6 @@ function initialize(departments){
     
     let treemap = new TooltipedTreemap(data)
     let svg = d3.select('svg#visualization')
-    treemap.drawOnSVG(svg)
+    treemap.appendToSVG(svg)
 }
 
