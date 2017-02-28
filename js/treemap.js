@@ -55,10 +55,7 @@ Treemap.prototype.nodeColor = function (node) {
 
 Treemap.prototype.appendToSVG = function (svg) {
     // Append zoom label
-    let zoomLabel = svg.append('text')
-        .attr('transform', `translate(${0} ${0})`)
-        .attr('id', 'zoom-label')
-
+    let zoomLabel = d3.select('body').append('h3').attr('id', 'zoom-label')
     // Configure Zoom
     let zoomLayer = svg.append('g').attr('id', 'zoom-layer')
     let zoom = d3.zoom()

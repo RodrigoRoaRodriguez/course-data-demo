@@ -100,9 +100,12 @@ img#brand {
   box-shadow: 0 0 2vw rgba(0, 0, 0, 0.5);
 }
 
-text#zoom-label {
-    fill: snow;
-    font-size: 2px;
+h3#zoom-label {
+  z-index: 2;
+  display: inline;
+  position: absolute;
+  bottom: 0;
+  right: 20px;
 }
 
 div.tooltip {
