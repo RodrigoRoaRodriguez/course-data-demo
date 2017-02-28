@@ -59,14 +59,20 @@ Treemap.prototype.drawOnSVG = function (svg) {
   let zoom = d3.zoom()
     .scaleExtent([.5, 100])
     .on('zoom', () => {
-      console.log('hello', d3.event.transform.k);
+      console.log('Zoom factor', d3.event.transform.k);
       zoomLayer.attr('transform', d3.event.transform)
  })
 
   svg.call(zoom)
+  
+  const initialZoom = d3.zoomIdentity
+  // Do not take the whole width, only 90%
+  initialZoom.k = .9 
+  // Center visualization, 10% = 5 on each side
+  initialZoom.x = (1 - initialZoom.k)*100/2  
+  
+  svg.call(zoom.transform, initialZoom);
 
-
-  console.log(this.treemapData.children.filter(d=>d.depth == 1))
   //Actually draw the treemap
   const perCourse = zoomLayer.selectAll('g.course')
     // .data(this.treemapData.children.filter(d=>d.depth == 1))
