@@ -37,6 +37,7 @@ class Treemap {
 
         this.transition = d3.transition() 
             .duration(500)
+            .ease(d3.easeLinear)
     }
     static nodeWidth(node) {
         return node.x1 - node.x0
@@ -91,7 +92,7 @@ Treemap.prototype.attachZoom = function (svg, onZoom) {
 Treemap.prototype.onZoom = function(transform){
         let k = transform.k
         // TODO refactor to eliminate level hard-coding
-        this.zoomLevel = k > 1.5 ? 3 : k > 1 ? 2 : k > 0.75 ? 1 : 0
+        this.zoomLevel = k > 2 ? 3 : k > 1.5 ? 2 : k > 0.75 ? 1 : 0
         // Only redraw if svg container is already defined
         this.svgContainer && this.draw()
     }
@@ -110,7 +111,12 @@ Treemap.prototype.draw = function(){
         // .data(this.treemapData.leaves(), Treemap.nodeId)
 
     // New data elements
-    const enter = update.enter().append('g').attr('class', 'course')
+    const enter = update.enter().append('g').attr('class', 'entering')
+        
+    enter.style('fill-opacity', 0) // start transparent
+        .transition(this.transition) //Animate it so that you see what happens
+        .style('fill-opacity', 1) // Fade in
+        .attr('class', 'course')
         
     // Old data elements
     const exit = update.exit()
@@ -118,9 +124,7 @@ Treemap.prototype.draw = function(){
     // ACTUALLY DRAW THE TREEMAP
 
     enter.attr('transform', d => 'translate(' + d.x0 + ',' + d.y0 + ')')
-        .style('fill-opacity', 0) // start transparent
-        .transition(this.transition) //Animate it so that you see what happens
-        .style('fill-opacity', 1) // Fade in
+
  
 
     const rectangles = enter.append('rect')
@@ -147,16 +151,17 @@ Treemap.prototype.draw = function(){
     const narrow = labels.filter(Treemap.isNodeOblong)
     const thick = labels.filter(d => !Treemap.isNodeOblong(d))
 
+    thick
+        .style('font-size', d => Math.min(
+            Treemap.nodeWidth(d) / Treemap.nodeId(d).length,
+            Treemap.nodeHeight(d) / 1.25))
+            
     narrow
         .attr('transform', d => `rotate(90) translate(0 ${-Treemap.nodeWidth(d)})`)
         .style('font-size', d => Math.min(
             Treemap.nodeWidth(d) / 1.25,
-            Treemap.nodeHeight(d) / 4.5))
+            Treemap.nodeHeight(d) / Treemap.nodeId(d).length))
 
-    thick
-        .style('font-size', d => Math.min(
-            Treemap.nodeWidth(d) / 4.5,
-            Treemap.nodeHeight(d) / 1.25))
 
 
     labels.append('tspan')
@@ -167,6 +172,7 @@ Treemap.prototype.draw = function(){
 
     // Fade away old elements and then remove them.
     exit
+        .attr('class', 'exiting')
         .transition(this.transition) //Animate it so that you see what happens
         .style('fill-opacity', 0) // Fade away
         .remove()
