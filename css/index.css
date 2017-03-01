@@ -6,6 +6,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  /* If you are able to see the body then something is not resizing properly, so let it be red as an error warning.*/
   background-color: #E71D36;
 }
 
