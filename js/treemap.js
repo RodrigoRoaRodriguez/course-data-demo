@@ -35,21 +35,24 @@ class Treemap {
         //  
         this.colorScale = d3.scaleOrdinal(d3.schemeCategory10)
     }
-    static nodeWidth(d) {
-        return d.x1 - d.x0
+    static nodeWidth(node) {
+        return node.x1 - node.x0
     }
-    static nodeHeight(d) {
-        return d.y1 - d.y0
+    static nodeHeight(node) {
+        return node.y1 - node.y0
     }
-    static isNodeOblong(d) {
+    static isNodeOblong(node) {
         const NOT_SQUARISH_FACTOR = 2.5
-        return Treemap.nodeHeight(d) > Treemap.nodeWidth(d) * NOT_SQUARISH_FACTOR
+        return Treemap.nodeHeight(node) > Treemap.nodeWidth(node) * NOT_SQUARISH_FACTOR
+    }
+    static nodeId(node){
+        return node.data.key || node.data.code
     }
 }
 
 Treemap.prototype.nodeColor = function (node) {
     // If parent: node.data.key, if leaf: node.data.code
-    let str = node.data.key || node.data.code
+    let str = Treemap.nodeId(node)
     return this.colorScale(str.substring(0, 2))
 }
 
@@ -78,13 +81,13 @@ Treemap.prototype.appendToSVG = function (svg) {
     //Actually draw the treemap
     const perCourse = zoomLayer.selectAll('g.course')
         // .data(this.treemapData.children.filter(d=>d.depth == 1))
-        .data(this.treemapData.leaves())
+        .data(this.treemapData.leaves(), Treemap.nodeId)
         .enter().append('g')
         .attr('class', 'course')
         .attr('transform', d => 'translate(' + d.x0 + ',' + d.y0 + ')')
 
     const rectangles = perCourse.append('rect')
-        .attr('id', d => d.data.key)
+        .attr('id', Treemap.nodeId)
         .attr('width', Treemap.nodeWidth)
         .attr('height', Treemap.nodeHeight)
         .attr('fill', d => this.nodeColor(d))
@@ -121,5 +124,5 @@ Treemap.prototype.appendToSVG = function (svg) {
         .attr('dy', '1em')
         .attr('x', '.2em')
         .style('font-weight', 'bold')
-        .text(d => d.data.key || d.data.code)
+        .text(Treemap.nodeId)
 }
